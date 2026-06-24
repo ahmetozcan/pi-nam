@@ -1,0 +1,65 @@
+data:
+  path: data/datasetCappadociaBalloonFlight.xlsx
+  target: flight
+  date_col: datetime
+
+features:
+  window_size: 7          # days for rolling stats and LSTM sequence
+  test_folds: 10          # stratified k-fold
+  random_seed: 42
+
+models:
+  lightgbm:
+    n_estimators: 500
+    learning_rate: 0.05
+    num_leaves: 31
+    max_depth: -1
+    random_state: 42
+  xgboost:
+    n_estimators: 500
+    learning_rate: 0.05
+    max_depth: 6
+    random_state: 42
+  random_forest:
+    n_estimators: 500
+    max_depth: null
+    random_state: 42
+  svm:
+    C: 1.0
+    kernel: rbf
+    probability: true
+  tabpfn:
+    n_estimators: 32      # TabPFN v2 ensemble size
+
+lstm:
+  units: 64
+  dropout: 0.3
+  epochs: 50
+  batch_size: 32
+  learning_rate: 0.001
+
+ensemble:
+  meta_learner: logistic_regression  # logistic_regression | ridge
+  base_models:
+    - lightgbm
+    - random_forest
+    - lstm
+
+tft:
+  hidden: 64
+  n_heads: 4
+  dropout: 0.1
+  epochs: 50
+  batch_size: 32
+  learning_rate: 0.001
+  patience: 7
+
+shap:
+  max_display: 15
+  seasonal_analysis: true   # split by season for SHAP
+
+paths:
+  outputs: outputs/
+  models: outputs/models/
+  results: outputs/results/
+  figures: outputs/figures/
