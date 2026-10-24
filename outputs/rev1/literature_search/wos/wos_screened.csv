@@ -1,0 +1,64 @@
+key,title,year,src,doi,queries,in_openalex,screen,ml_flight_decision
+10.1001/jama.279.13.1011,Factors associated with fatalities and injuries from hot-air balloon crashes,1998,JAMA-JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION,10.1001/jama.279.13.1011,Q4,True,safety,0
+10.1002/2018gl077481,Detection of Artificially Generated Seismic Signals Using Balloon-Borne Infrasound Sensors,2018,GEOPHYSICAL RESEARCH LETTERS,10.1002/2018GL077481,Q2,True,excluded,0
+10.1002/jtr.70419,I Believe I Can Fly: Future Research Directions on the New Low-Altitude Airspace Tourism Phenomenon,2026,INTERNATIONAL JOURNAL OF TOURISM RESEARCH,10.1002/jtr.70419,Q4,False,crewed_other,0
+10.1002/met.2128,Wind observations from hot-air balloons and the application in an NWP model,2023,METEOROLOGICAL APPLICATIONS,10.1002/met.2128,Q2,True,wind_sensor,0
+10.1007/978-1-61779-249-6_8,Fatalities in General Aviation: From Balloons to Helicopters,2011,"FORENSIC PATHOLOGY REVIEWS, VOL 6",10.1007/978-1-61779-249-6_8,Q4,False,safety,0
+10.1007/978-981-96-8101-3_9,Design of an Integrated and Automated System for Ground Handling of a Tactical Aerostat,2026,"LIGHTER THAN AIR SYSTEMS, DELTAS 2024",10.1007/978-981-96-8101-3_9,Q4,False,excluded,0
+10.1007/s10049-009-1224-z,Accident rates and injury probabilities in aviation accidents. Practical implications for rescue operations through analysis of general aviation accidents over a 15-year period (1993-2007),2010,NOTFALL & RETTUNGSMEDIZIN,10.1007/s10049-009-1224-z,Q4,False,excluded,0
+10.1007/s10291-017-0628-3,Using external tropospheric corrections to improve GNSS positioning of hot-air balloon,2017,GPS SOLUTIONS,10.1007/s10291-017-0628-3,Q2,True,crewed_other,0
+10.1007/s10453-021-09736-1,"Bioaerosol vertical fungal spores profile in Minas Gerais State, Brazil",2022,AEROBIOLOGIA,10.1007/s10453-021-09736-1,Q2,True,excluded,0
+10.1016/0273-1177(95)00680-d,A BALLOON-BORNE EXPERIMENT TO INVESTIGATE THE MARTIAN MAGNETIC-FIELD,1996,SCIENTIFIC BALLOONING,10.1016/0273-1177(95)00680-D,Q2,True,excluded,0
+10.1016/j.asr.2003.07.038,Design considerations and practical results with long duration systems for manned world flights,2004,NEXT GENERATION IN SCIENTIFIC BALLOONING,10.1016/j.asr.2003.07.038,Q4,True,excluded,0
+10.1016/j.atmosenv.2009.10.032,Influence of Saharan dust outbreaks and atmospheric stability upon vertical profiles of size-segregated aerosols and water vapor,2010,ATMOSPHERIC ENVIRONMENT,10.1016/j.atmosenv.2009.10.032,Q2,True,excluded,0
+10.1016/j.burns.2004.05.015,Hot-air ballooning injuries in the United Kingdom (January 1976-January 2004),2004,BURNS,10.1016/j.burns.2004.05.015,"Q2,Q4",False,safety,0
+10.1016/j.jmps.2021.104369,Effect of receptors on the resonant and transient harmonic vibrations of Coronavirus,2021,JOURNAL OF THE MECHANICS AND PHYSICS OF SOLIDS,10.1016/j.jmps.2021.104369,Q4,True,excluded,0
+10.1016/j.microb.2025.100300,Airborne fungal spore concentrations double but diversity decreases with warmer winter temperatures in the Brazilian Atlantic Forest biodiversity hotspot,2025,MICROBE,10.1016/j.microb.2025.100300,Q2,False,excluded,0
+10.1016/j.nanoen.2023.108791,Self-powered wind detection and positioning system for hot air balloon based on multi-module triboelectric nanogenerator,2023,NANO ENERGY,10.1016/j.nanoen.2023.108791,"Q2,Q4",True,crewed_other,0
+10.1016/j.promfg.2015.07.194,Incident reporting culture in recreational hot air ballooning,2015,"6TH INTERNATIONAL CONFERENCE ON APPLIED HUMAN FACTORS AND ERGONOMICS (AHFE 2015) AND THE AFFILIATED CONFERENCES, AHFE 2015",10.1016/j.promfg.2015.07.194,Q4,False,safety,0
+10.1016/j.scienta.2018.10.038,"Spring late frost resistance of selected wild apricot genotypes (Prunus armeniaca L.) from Cappadocia region, Turkey",2019,SCIENTIA HORTICULTURAE,10.1016/j.scienta.2018.10.038,Q3,True,excluded,0
+10.1016/j.ultras.2025.107826,Air-coupled ultrasonic detection of microholes in flexible envelope materials,2026,ULTRASONICS,10.1016/j.ultras.2025.107826,Q4,True,crewed_other,0
+10.1016/s0094-5765(99)00146-0,Balloons for controlled roving/landing on Mars,1999,ACTA ASTRONAUTICA,10.1016/S0094-5765(99)00146-0,Q2,True,excluded,0
+10.1016/s0379-0738(00)00398-4,Fatal aviation accidents in Lower Saxony from 1979 to 1996,2001,FORENSIC SCIENCE INTERNATIONAL,10.1016/S0379-0738(00)00398-4,Q4,True,excluded,0
+10.1017/s1350482799001292,Forecasting for hot-air balloons and airships in the Midlands of England,1999,METEOROLOGICAL APPLICATIONS,10.1017/S1350482799001292,Q2,True,suitability_forecast,0
+10.1029/2025jd044347,Characterization and Localization of Chemical Explosions and Lightning Flashes by a Flotilla of Stratospheric Balloons,2026,JOURNAL OF GEOPHYSICAL RESEARCH-ATMOSPHERES,10.1029/2025JD044347,Q2,True,excluded,0
+10.1038/s41598-026-54916-z,"Design and implementation of a traffic monitoring, collision awareness and advisory prototype for hot air balloons",2026,SCIENTIFIC REPORTS,10.1038/s41598-026-54916-z,Q4,True,safety,0
+10.1080/00222933.2024.2322178,Mechanisms preventing animals to achieve buoyant flight,2024,JOURNAL OF NATURAL HISTORY,10.1080/00222933.2024.2322178,Q4,False,excluded,0
+10.1080/08831157.2021.1960111,Early modern clouds II: Revisiting the poetics of meteorology,2021,ROMANCE QUARTERLY,10.1080/08831157.2021.1960111,Q2,False,excluded,0
+10.1080/13032917.2026.2732929,Hot air balloon experiences: asymmetric impacts and latent profiles,2026,ANATOLIA-INTERNATIONAL JOURNAL OF TOURISM AND HOSPITALITY RESEARCH,10.1080/13032917.2026.2732929,"Q3,Q4",True,crewed_other,0
+10.1097/paf.0000000000000796,Hot Air Balloon Fatalities in New Mexico The Forensic Pathology Experience,2023,AMERICAN JOURNAL OF FORENSIC MEDICINE AND PATHOLOGY,10.1097/PAF.0000000000000796,Q4,True,safety,0
+10.1111/jtm.12213,Severe Sunburn After a Hot Air Balloon Ride: A Case Report and Literature Review,2015,JOURNAL OF TRAVEL MEDICINE,10.1111/jtm.12213,Q4,True,safety,0
+10.1117/12.2636244,Two-step registration of near-space remote sensing images via deep neural networks,2022,IMAGE AND SIGNAL PROCESSING FOR REMOTE SENSING XXVIII,10.1117/12.2636244,Q1,True,excluded,0
+10.1117/12.777654,Wind-based navigation of a hot-air balloon on Titan: A feasibility study,2008,SPACE EXPLORATION TECHNOLOGIES,10.1117/12.777654,Q2,True,excluded,0
+10.1145/2909824.3020231,Windfield: Learning Wind Meteorology with Handheld Haptic Robots,2017,PROCEEDINGS OF THE 2017 ACM/IEEE INTERNATIONAL CONFERENCE ON HUMAN-ROBOT INTERACTION (HRI'17),10.1145/2909824.3020231,Q2,True,excluded,0
+10.1175/bams-d-19-0285.1,Opportunistic Sensing with Recreational Hot-Air Balloon Flights,2021,BULLETIN OF THE AMERICAN METEOROLOGICAL SOCIETY,10.1175/BAMS-D-19-0285.1,Q2,True,wind_sensor,0
+10.1175/jtech-d-19-0043.1,Measuring Low-Altitude Winds with a Hot-Air Balloon and Their Validation with Cabauw Tower Observations,2020,JOURNAL OF ATMOSPHERIC AND OCEANIC TECHNOLOGY,10.1175/JTECH-D-19-0043.1,Q2,True,wind_sensor,0
+10.1175/jtech-d-19-0175.1,Multihour Stratospheric Flights with the Heliotrope Solar Hot-Air Balloon,2020,JOURNAL OF ATMOSPHERIC AND OCEANIC TECHNOLOGY,10.1175/JTECH-D-19-0175.1,Q2,True,excluded,0
+10.1175/jtech-d-24-0045.1,Evaluation of the EarthSHAB Stratospheric Solar Hot Air Balloon Flight Prediction Model Using Balloon Trajectory Data,2024,JOURNAL OF ATMOSPHERIC AND OCEANIC TECHNOLOGY,10.1175/JTECH-D-24-0045.1,"Q2,Q4",True,excluded,0
+10.1175/waf-d-16-0028.1,Observing Boundary-Layer Winds from Hot-Air Balloon Flights,2016,WEATHER AND FORECASTING,10.1175/WAF-D-16-0028.1,Q2,True,wind_sensor,0
+10.20858/tp.2026.21.1.03,AN INVESTIGATION OF A HOT-AIR BALLOON HORIZONTAL MOTION IN CONDITIONS OF A HORIZONTAL THRUST FORCE APPLICATION,2026,TRANSPORT PROBLEMS,10.20858/tp.2026.21.1.03,Q2,True,crewed_other,0
+10.2151/jmsj.2010-301,Mechanisms of Temporary Improvement and Rapid Changes in Visibility in Fogs,2010,JOURNAL OF THE METEOROLOGICAL SOCIETY OF JAPAN,10.2151/jmsj.2010-301,Q2,True,excluded,0
+10.2151/sola.2009-004,Direct Photographic Method for Measuring Droplet Size Distribution in Fog,2009,SOLA,10.2151/sola.2009-004,Q2,True,excluded,0
+10.24147/2542-1514.2019.3(2).38-49,POWERS OF LOCAL GOVERNMENTS IN THE FIELD OF SECURITY OF SETTLEMENTS ON THE EXAMPLE OF FLIGHT PERMITS: MONITORING OF LEGISLATION AND LAW ENFORCEMENT PRACTICE,2019,PRAVOPRIMENENIE-LAW ENFORCEMENT REVIEW,10.24147/2542-1514.2019.3(2).38-49,Q4,False,crewed_other,0
+10.2514/1.c000263,Probabilities for Severe and Fatal Injuries in General Aviation Accidents,2010,JOURNAL OF AIRCRAFT,10.2514/1.C000263,Q4,True,excluded,0
+10.2514/2.5079,Optimal trajectory planning for hot-air balloons in linear wind fields,2003,JOURNAL OF GUIDANCE CONTROL AND DYNAMICS,10.2514/2.5079,Q2,True,crewed_other,0
+10.30519/ahtr.899626,SMALL HOTEL LOCATION SELECTION PROBLEM: THE CASE OF CAPPADOCIA,2021,ADVANCES IN HOSPITALITY AND TOURISM RESEARCH-AHTR,10.30519/ahtr.899626,Q3,True,excluded,0
+10.3357/amhp.5121.2019,Hot-Air Balloon Tour Accidents in the Cappadocia Region,2019,AEROSPACE MEDICINE AND HUMAN PERFORMANCE,10.3357/AMHP.5121.2019,"Q3,Q4",True,safety,0
+10.3357/asem.3719.2013,"Hot-Air Balloon Tours: Crash Epidemiology in the United States, 2000-2011",2013,AVIATION SPACE AND ENVIRONMENTAL MEDICINE,10.3357/ASEM.3719.2013,Q4,True,safety,0
+10.3357/asem.3984.2014,"Causal Factors of Hot Air Ballooning Incidents: Identification, Frequency, and Potential Impact",2014,AVIATION SPACE AND ENVIRONMENTAL MEDICINE,10.3357/ASEM.3984.2014,"Q2,Q4",False,safety,0
+10.3390/electronics13183681,Guard Band Protection Scheme to Facilitate Coexistence of 5G Base Stations and Radar Altimeters,2024,ELECTRONICS,10.3390/electronics13183681,Q4,True,excluded,0
+10.3727/108354213x13673398610899,ENJOYING AERONAUTIC SPORTS: A STRATEGIC PLAN FOR HOT AIR BALLOONING DEVELOPMENT IN TAIWAN,2013,TOURISM ANALYSIS,10.3727/108354213X13673398610899,Q4,False,crewed_other,0
+10.3846/aviation.2021.15330,MATHEMATICAL MODEL OF HOT-AIR BALLOON STEADY-STATE VERTICAL FLIGHT PERFORMANCE,2021,AVIATION,10.3846/aviation.2021.15330,Q4,True,crewed_other,0
+10.4050/jahs.52.360,Design and testing of an autorotative payload delivery system,2007,JOURNAL OF THE AMERICAN HELICOPTER SOCIETY,10.4050/JAHS.52.360,Q2,False,excluded,0
+10.4103/jcecho.jcecho_56_23,Hot Air Balloon in the Left Atria,2024,JOURNAL OF CARDIOVASCULAR ECHOGRAPHY,10.4103/jcecho.jcecho_56_23,Q4,False,excluded,0
+10.5194/acp-7-1869-2007,Boundary layer concentrations and landscape scale emissions of volatile organic compounds in early spring,2007,ATMOSPHERIC CHEMISTRY AND PHYSICS,10.5194/acp-7-1869-2007,Q2,True,excluded,0
+WOS:000245240500043,Titan exploration using a radioisotopically-heated Montgolfiere balloon,2007,SPACE TECHNOLOGY AND APPLICATIONS INTERNATIONAL FORUM - STAIF 2007,,Q2,False,excluded,0
+WOS:000251235300021,Concept for titan exploration using a radioisotopically heated montgolfiere,2007,"2007 IEEE AEROSPACE CONFERENCE, VOLS 1-9",,Q2,False,excluded,0
+WOS:000387769900235,HOW DO AVERAGE WOMAN THINK ABOUT BREAST CANCER RISK AND PREVENTION? A HUGE HOT AIR BALLOON,2016,ASIA-PACIFIC JOURNAL OF CLINICAL ONCOLOGY,,Q4,False,excluded,0
+WOS:000414287003047,Preparing for a Future In Situ Mission to Titan,2010,2010 IEEE AEROSPACE CONFERENCE PROCEEDINGS,,Q4,False,excluded,0
+WOS:000414287003065,Implications of Wind-Assisted Aerial Navigation for Titan Mission Planning and Science Exploration,2010,2010 IEEE AEROSPACE CONFERENCE PROCEEDINGS,,Q2,False,excluded,0
+WOS:000625963600002,"Hacking Airspace The Insurgent Technology of Brazil's Hot Air Balloons, 1970-Present",2021,TECHNOLOGY AND CULTURE,,Q4,False,crewed_other,0
+WOS:001328739804038,Solar High-Altitude Balloons (SHAB) as a Long Duration Controllable Aerial Platform,2022,AIAA SCITECH 2022 FORUM,,Q2,False,excluded,0
+WOS:A1992JY40600035,RARE ELECTROCUTION DUE TO POWERLINE CONTACT IN A HOT-AIR BALLOON - COMPARISON WITH FATALITIES FROM BLUNT TRAUMA,1992,JOURNAL OF FORENSIC SCIENCES,,Q4,False,safety,0
+WOS:A1994MQ23600002,EPIDEMIOLOGY OF HOT-AIR BALLOON CRASHES IN THE UNITED-STATES 1984-88,1994,AVIATION SPACE AND ENVIRONMENTAL MEDICINE,,Q4,False,safety,0
+WOS:A1997WR61400014,Influences of hot-air balloon crossings on animals in the open air.,1997,DEUTSCHE TIERARZTLICHE WOCHENSCHRIFT,,Q4,False,crewed_other,0

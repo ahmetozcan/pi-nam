@@ -1,0 +1,52 @@
+{
+  "raw_records": 731,
+  "raw_class_counts": {
+    "1": 454,
+    "0": 277
+  },
+  "usable_records": 728,
+  "usable_class_counts": {
+    "1": 451,
+    "0": 277
+  },
+  "usable_period": [
+    "2023-01-04",
+    "2024-12-31"
+  ],
+  "dropped_rows": [
+    {
+      "date": "2023-01-01",
+      "flight": 1
+    },
+    {
+      "date": "2023-01-02",
+      "flight": 1
+    },
+    {
+      "date": "2023-01-03",
+      "flight": 1
+    }
+  ],
+  "n_meteorological_columns_in_xlsx": 16,
+  "n_model_input_channels": 16,
+  "missing_cells": 0,
+  "nonfinite_cells": 0,
+  "windgust_range": [
+    12.6,
+    87.1
+  ],
+  "temp_range": [
+    -8.2,
+    31.5
+  ],
+  "temp_mean_std": [
+    12.993406593406595,
+    8.546729576477572
+  ],
+  "tempmin_tempmax_range": [
+    -12.1,
+    40.5
+  ],
+  "flight_days_with_gust_gt_50": 27,
+  "flight_days_max_gust": 77.8
+}

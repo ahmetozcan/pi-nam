@@ -1,0 +1,32 @@
+\begin{table}[!ht]
+\centering\footnotesize\linespread{1}\selectfont
+\setlength{\tabcolsep}{3pt}
+\caption{Derived factors of PI-NAM. Inputs in the units of Table~\ref{tab:features}; $\Delta$cloud is defined like $\Delta P$.}
+\label{tab:physics}
+\begin{tabular}{>{\raggedright\arraybackslash}p{2.7cm}>{\raggedright\arraybackslash}p{5.0cm}>{\raggedright\arraybackslash}p{2.9cm}>{\raggedright\arraybackslash}p{1.3cm}>{\raggedright\arraybackslash}p{2.9cm}}
+\toprule
+Factor & Definition & Constants & Unit & Meaning \\
+\midrule
+\multicolumn{5}{l}{\textit{Instantaneous}} \\
+Air density $\rho$ & $\rho = 100P/(R_d T_v)$, $T_v = T_K/[1-(e/P)(1-\varepsilon)]$ & $R_d=287.05$ J kg$^{-1}$K$^{-1}$, $\varepsilon=0.622$ & kg m$^{-3}$ & moist-air density \\
+Density altitude $h_\rho$ & $h_\rho = 44330\,[1-(\rho/\rho_0)^{1/4.256}]$ & $\rho_0=1.225$ kg m$^{-3}$ (ISA) & m & ISA altitude with the same density (relative index) \\
+Lift capacity $L$ & $L = \rho\,[1 - T_K/(T_K+\Delta T)]$ & $\Delta T = 100$ K (assumed envelope excess) & kg m$^{-3}$ & gross lift per m$^3$ of envelope \\
+Dew-point depression & $T - T_d \approx (100-RH)/5$ & — & K & proximity to saturation \\
+Gust factor $G$ & $G = v_{gust}/(v + 10^{-3})$ & — & — & gustiness relative to sustained wind \\
+Specific humidity $q$ & $q = \varepsilon e/(P - 0.378e)$, $e = (RH/100)\,e_s(T)$, $e_s = 6.112\exp[17.67T/(T+243.5)]$ & $\varepsilon=0.622$; $e$, $e_s$ in hPa & kg kg$^{-1}$ & water-vapor content \\
+Wind dynamic pressure $q_w$ & $q_w = \frac{1}{2}\rho v^2$ & — & index ($\propto$ Pa) & wind loading on the envelope (index) \\
+Clear-sky fraction $c$ & $c = (100 - \mathrm{cloud})/100$ & — & — & fraction of sky free of cloud \\
+\multicolumn{5}{l}{\textit{Synoptic ($s=5$)}} \\
+Pressure tendency $\Delta P$ & $P_t - P_{t-s+1}$ &  & hPa & barometric tendency over 4 days \\
+Pressure variability & $\mathrm{sd}(P_{t-s+1..t})$ &  & hPa & synoptic variability \\
+Frontal passage & $\mathrm{ReLU}(-\Delta P)\,\mathrm{ReLU}(\Delta\mathrm{cloud})$ &  & hPa$\cdot$\% & falling pressure, rising cloud (heuristic) \\
+Clearness trend & $c_t - \overline{c}_{t-s+1..t}$ &  & — & clearing or clouding up \\
+Dew-point depression trend & $(T-T_d)_t - (T-T_d)_{t-s+1}$ &  & K & drying or moistening \\
+Wind-direction steadiness & $\|\overline{(\cos\theta,\sin\theta)}\|$ &  & 0--1 & mean resultant length \\
+Recent storminess & $\max v_{gust,t-s+1..t}$ &  & km/h & peak recent gust \\
+Calm--clear index & $c\,/[(T-T_d+1)(v+1)]$ & — & index & calm, clear, near-saturated air (heuristic) \\
+Diurnal range & $T_{max}-T_{min}$ & — & K & stability and clear-sky proxy \\
+Thermal turbulence & $T_{max}\,c$ & — & $^\circ$C & daytime convection proxy (heuristic) \\
+\bottomrule
+\end{tabular}
+\end{table}

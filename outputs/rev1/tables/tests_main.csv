@@ -1,0 +1,139 @@
+info_set,protocol,model,metric,mean_diff,p,rank_biserial,n,diff,p_holm,significant,ci_lo,ci_hi
+S0,rand,EBM,roc_auc,0.0095,0.2227,0.4545,10.0000,0.0095,1.0000,False,,
+S0,rand,XGBoost,roc_auc,0.0090,0.3750,0.3455,10.0000,0.0090,1.0000,False,,
+S0,rand,LightGBM,roc_auc,0.0131,0.2754,0.4182,10.0000,0.0131,1.0000,False,,
+S0,rand,CatBoost,roc_auc,0.0096,0.2324,0.4545,10.0000,0.0096,1.0000,False,,
+S0,rand,Random Forest,roc_auc,0.0151,0.1055,0.6000,10.0000,0.0151,0.7383,False,,
+S0,rand,SVM,roc_auc,0.0108,0.1934,0.4909,10.0000,0.0108,1.0000,False,,
+S0,rand,TabPFN,roc_auc,-0.0024,0.6953,-0.1636,10.0000,-0.0024,1.0000,False,,
+S0,rand,EBM,balanced_acc,0.0191,0.1641,0.5556,10.0000,0.0191,1.0000,False,,
+S0,rand,XGBoost,balanced_acc,-0.0018,1.0000,0.0182,10.0000,-0.0018,1.0000,False,,
+S0,rand,LightGBM,balanced_acc,-0.0020,0.8262,-0.0909,10.0000,-0.0020,1.0000,False,,
+S0,rand,CatBoost,balanced_acc,0.0064,1.0000,0.0000,10.0000,0.0064,1.0000,False,,
+S0,rand,Random Forest,balanced_acc,0.0035,0.7695,0.1273,10.0000,0.0035,1.0000,False,,
+S0,rand,SVM,balanced_acc,0.0053,0.6250,0.2000,10.0000,0.0053,1.0000,False,,
+S0,rand,TabPFN,balanced_acc,0.0138,0.2754,0.4182,10.0000,0.0138,1.0000,False,,
+S0,rand,EBM,mcc,0.0344,0.3594,0.3778,10.0000,0.0344,1.0000,False,,
+S0,rand,XGBoost,mcc,0.0065,0.5566,0.2364,10.0000,0.0065,1.0000,False,,
+S0,rand,LightGBM,mcc,0.0160,0.9219,-0.0545,10.0000,0.0160,1.0000,False,,
+S0,rand,CatBoost,mcc,0.0161,0.8203,0.1111,10.0000,0.0161,1.0000,False,,
+S0,rand,Random Forest,mcc,0.0130,0.6953,0.1636,10.0000,0.0130,1.0000,False,,
+S0,rand,SVM,mcc,0.0265,0.2754,0.4182,10.0000,0.0265,1.0000,False,,
+S0,rand,TabPFN,mcc,0.0346,0.2324,0.4545,10.0000,0.0346,1.0000,False,,
+S0,block,EBM,roc_auc,0.0021,0.9219,0.0545,10.0000,0.0021,1.0000,False,,
+S0,block,XGBoost,roc_auc,0.0040,1.0000,-0.0182,10.0000,0.0040,1.0000,False,,
+S0,block,LightGBM,roc_auc,0.0160,0.3750,0.3455,10.0000,0.0160,1.0000,False,,
+S0,block,CatBoost,roc_auc,0.0010,0.4922,-0.2727,10.0000,0.0010,1.0000,False,,
+S0,block,Random Forest,roc_auc,-0.0005,0.7344,-0.1556,10.0000,-0.0005,1.0000,False,,
+S0,block,SVM,roc_auc,0.0241,0.2500,0.5000,10.0000,0.0241,1.0000,False,,
+S0,block,TabPFN,roc_auc,-0.0178,0.0645,-0.6727,10.0000,-0.0178,0.4512,False,,
+S0,block,EBM,balanced_acc,-0.0299,0.0117,-0.9111,10.0000,-0.0299,0.0820,False,,
+S0,block,XGBoost,balanced_acc,-0.0173,0.1602,-0.5273,10.0000,-0.0173,0.8008,False,,
+S0,block,LightGBM,balanced_acc,-0.0046,0.7422,-0.1667,10.0000,-0.0046,1.0000,False,,
+S0,block,CatBoost,balanced_acc,-0.0228,0.1934,-0.4909,10.0000,-0.0228,0.8008,False,,
+S0,block,Random Forest,balanced_acc,-0.0273,0.0391,-0.8333,10.0000,-0.0273,0.2344,False,,
+S0,block,SVM,balanced_acc,-0.0076,0.6250,-0.2000,10.0000,-0.0076,1.0000,False,,
+S0,block,TabPFN,balanced_acc,-0.0179,0.2500,-0.4667,10.0000,-0.0179,0.8008,False,,
+S0,block,EBM,mcc,-0.0491,0.0391,-0.7778,10.0000,-0.0491,0.2734,False,,
+S0,block,XGBoost,mcc,0.0058,0.8457,-0.0909,10.0000,0.0058,1.0000,False,,
+S0,block,LightGBM,mcc,0.0143,0.6406,0.2222,10.0000,0.0143,1.0000,False,,
+S0,block,CatBoost,mcc,-0.0131,0.6953,-0.1636,10.0000,-0.0131,1.0000,False,,
+S0,block,Random Forest,mcc,-0.0379,0.1953,-0.5556,10.0000,-0.0379,1.0000,False,,
+S0,block,SVM,mcc,0.0339,0.8457,0.0909,10.0000,0.0339,1.0000,False,,
+S0,block,TabPFN,mcc,0.0002,0.4258,-0.3333,10.0000,0.0002,1.0000,False,,
+S0,year,PI-NAM-fixed,balanced_acc,,,,,-0.0268,,False,-0.0626,0.0083
+S0,year,PI-NAM-fixed,mcc,,,,,-0.0578,,False,-0.1248,0.0115
+S0,year,EBM,balanced_acc,,,,,0.0086,,False,-0.0427,0.0593
+S0,year,EBM,mcc,,,,,-0.0282,,False,-0.1230,0.0649
+S0,year,XGBoost,balanced_acc,,,,,0.0184,,False,-0.0341,0.0730
+S0,year,XGBoost,mcc,,,,,-0.0091,,False,-0.1064,0.0946
+S0,year,LightGBM,balanced_acc,,,,,-0.0125,,False,-0.0596,0.0348
+S0,year,LightGBM,mcc,,,,,-0.0425,,False,-0.1298,0.0503
+S0,year,CatBoost,balanced_acc,,,,,0.0197,,False,-0.0323,0.0736
+S0,year,CatBoost,mcc,,,,,-0.0150,,False,-0.1135,0.0810
+S0,year,Random Forest,balanced_acc,,,,,-0.0250,,False,-0.0736,0.0259
+S0,year,Random Forest,mcc,,,,,-0.0562,,False,-0.1506,0.0387
+S0,year,SVM,balanced_acc,,,,,0.0305,,False,-0.0260,0.0871
+S0,year,SVM,mcc,,,,,0.0392,,False,-0.0701,0.1478
+S0,year,TabPFN,balanced_acc,,,,,-0.0058,,False,-0.0537,0.0419
+S0,year,TabPFN,mcc,,,,,-0.0226,,False,-0.1171,0.0700
+S0,year,PI-NAM-fixed,roc_auc,,0.0657,,,-0.0179,0.5258,False,,
+S0,year,EBM,roc_auc,,0.9145,,,-0.0017,1.0000,False,,
+S0,year,XGBoost,roc_auc,,0.8983,,,-0.0022,1.0000,False,,
+S0,year,LightGBM,roc_auc,,0.9424,,,-0.0012,1.0000,False,,
+S0,year,CatBoost,roc_auc,,0.9803,,,0.0004,1.0000,False,,
+S0,year,Random Forest,roc_auc,,0.6698,,,-0.0064,1.0000,False,,
+S0,year,SVM,roc_auc,,0.1294,,,0.0317,0.9059,False,,
+S0,year,TabPFN,roc_auc,,0.1359,,,-0.0226,0.9059,False,,
+S1,rand,PI-NAM-fixed,roc_auc,-0.0009,0.6953,-0.1636,10.0000,-0.0009,1.0000,False,,
+S1,rand,EBM,roc_auc,0.0069,0.6465,0.1818,10.0000,0.0069,1.0000,False,,
+S1,rand,XGBoost,roc_auc,0.0124,0.2754,0.4182,10.0000,0.0124,1.0000,False,,
+S1,rand,LightGBM,roc_auc,0.0199,0.0645,0.6727,10.0000,0.0199,0.5156,False,,
+S1,rand,CatBoost,roc_auc,0.0078,0.3223,0.3818,10.0000,0.0078,1.0000,False,,
+S1,rand,Random Forest,roc_auc,0.0042,0.6953,0.1636,10.0000,0.0042,1.0000,False,,
+S1,rand,SVM,roc_auc,0.0008,1.0000,-0.0182,10.0000,0.0008,1.0000,False,,
+S1,rand,TabPFN,roc_auc,-0.0071,0.6953,-0.1636,10.0000,-0.0071,1.0000,False,,
+S1,rand,PI-NAM-fixed,balanced_acc,0.0200,0.3750,0.3455,10.0000,0.0200,1.0000,False,,
+S1,rand,EBM,balanced_acc,0.0055,1.0000,0.0182,10.0000,0.0055,1.0000,False,,
+S1,rand,XGBoost,balanced_acc,0.0514,0.0840,0.6364,10.0000,0.0514,0.5039,False,,
+S1,rand,LightGBM,balanced_acc,0.0487,0.0195,0.8182,10.0000,0.0487,0.1562,False,,
+S1,rand,CatBoost,balanced_acc,0.0454,0.0488,0.7091,10.0000,0.0454,0.3418,False,,
+S1,rand,Random Forest,balanced_acc,0.0334,0.1875,0.4909,10.0000,0.0334,0.8203,False,,
+S1,rand,SVM,balanced_acc,0.0228,0.1641,0.5556,10.0000,0.0228,0.8203,False,,
+S1,rand,TabPFN,balanced_acc,0.0032,0.6406,0.1818,10.0000,0.0032,1.0000,False,,
+S1,rand,PI-NAM-fixed,mcc,0.0316,0.3223,0.3818,10.0000,0.0316,1.0000,False,,
+S1,rand,EBM,mcc,0.0024,1.0000,-0.0182,10.0000,0.0024,1.0000,False,,
+S1,rand,XGBoost,mcc,0.0719,0.1055,0.6000,10.0000,0.0719,0.6328,False,,
+S1,rand,LightGBM,mcc,0.0892,0.0059,0.9273,10.0000,0.0892,0.0469,True,,
+S1,rand,CatBoost,mcc,0.0739,0.0273,0.7818,10.0000,0.0739,0.1914,False,,
+S1,rand,Random Forest,mcc,0.0463,0.2324,0.4545,10.0000,0.0463,1.0000,False,,
+S1,rand,SVM,mcc,0.0270,0.3594,0.3778,10.0000,0.0270,1.0000,False,,
+S1,rand,TabPFN,mcc,0.0036,0.6953,0.1636,10.0000,0.0036,1.0000,False,,
+S1,block,PI-NAM-fixed,roc_auc,0.0069,0.8457,0.0909,10.0000,0.0069,1.0000,False,,
+S1,block,EBM,roc_auc,0.0037,0.9219,0.0545,10.0000,0.0037,1.0000,False,,
+S1,block,XGBoost,roc_auc,0.0015,0.9219,0.0545,10.0000,0.0015,1.0000,False,,
+S1,block,LightGBM,roc_auc,-0.0113,0.6953,-0.1636,10.0000,-0.0113,1.0000,False,,
+S1,block,CatBoost,roc_auc,0.0079,0.6953,0.1636,10.0000,0.0079,1.0000,False,,
+S1,block,Random Forest,roc_auc,-0.0059,0.6250,-0.2000,10.0000,-0.0059,1.0000,False,,
+S1,block,SVM,roc_auc,0.0211,0.3223,0.3818,10.0000,0.0211,1.0000,False,,
+S1,block,TabPFN,roc_auc,-0.0201,0.1602,-0.5273,10.0000,-0.0201,1.0000,False,,
+S1,block,PI-NAM-fixed,balanced_acc,0.0222,0.1562,0.6429,10.0000,0.0222,0.9375,False,,
+S1,block,EBM,balanced_acc,0.0122,0.4609,0.3333,10.0000,0.0122,1.0000,False,,
+S1,block,XGBoost,balanced_acc,0.0064,1.0000,0.0000,10.0000,0.0064,1.0000,False,,
+S1,block,LightGBM,balanced_acc,0.0180,0.4316,0.3091,10.0000,0.0180,1.0000,False,,
+S1,block,CatBoost,balanced_acc,0.0218,0.3594,0.3778,10.0000,0.0218,1.0000,False,,
+S1,block,Random Forest,balanced_acc,0.0328,0.0391,0.7778,10.0000,0.0328,0.2734,False,,
+S1,block,SVM,balanced_acc,0.0324,0.0312,0.9286,10.0000,0.0324,0.2500,False,,
+S1,block,TabPFN,balanced_acc,0.0140,0.5469,0.2778,10.0000,0.0140,1.0000,False,,
+S1,block,PI-NAM-fixed,mcc,0.0540,0.1094,0.7143,10.0000,0.0540,0.6562,False,,
+S1,block,EBM,mcc,0.0236,0.3125,0.4444,10.0000,0.0236,1.0000,False,,
+S1,block,XGBoost,mcc,-0.0029,0.8438,-0.1111,10.0000,-0.0029,1.0000,False,,
+S1,block,LightGBM,mcc,0.0478,0.2324,0.4545,10.0000,0.0478,1.0000,False,,
+S1,block,CatBoost,mcc,0.0732,0.2500,0.4667,10.0000,0.0732,1.0000,False,,
+S1,block,Random Forest,mcc,0.0973,0.0195,0.8667,10.0000,0.0973,0.1562,False,,
+S1,block,SVM,mcc,0.0483,0.0312,0.9286,10.0000,0.0483,0.2188,False,,
+S1,block,TabPFN,mcc,0.0330,0.2500,0.5000,10.0000,0.0330,1.0000,False,,
+S1,year,PI-NAM-fixed,balanced_acc,,,,,0.0035,,False,-0.0313,0.0367
+S1,year,PI-NAM-fixed,mcc,,,,,0.0039,,False,-0.0643,0.0706
+S1,year,EBM,balanced_acc,,,,,0.0223,,False,-0.0094,0.0548
+S1,year,EBM,mcc,,,,,0.0360,,False,-0.0348,0.1066
+S1,year,XGBoost,balanced_acc,,,,,0.0148,,False,-0.0205,0.0485
+S1,year,XGBoost,mcc,,,,,0.0078,,False,-0.0756,0.0861
+S1,year,LightGBM,balanced_acc,,,,,0.0470,,True,0.0110,0.0818
+S1,year,LightGBM,mcc,,,,,0.0420,,False,-0.0368,0.1222
+S1,year,CatBoost,balanced_acc,,,,,0.0170,,False,-0.0127,0.0455
+S1,year,CatBoost,mcc,,,,,-0.0047,,False,-0.0729,0.0598
+S1,year,Random Forest,balanced_acc,,,,,0.0404,,True,0.0050,0.0718
+S1,year,Random Forest,mcc,,,,,0.0609,,False,-0.0143,0.1296
+S1,year,SVM,balanced_acc,,,,,0.0166,,False,-0.0235,0.0552
+S1,year,SVM,mcc,,,,,0.0368,,False,-0.0453,0.1170
+S1,year,TabPFN,balanced_acc,,,,,0.0465,,True,0.0035,0.0858
+S1,year,TabPFN,mcc,,,,,0.0578,,False,-0.0345,0.1503
+S1,year,PI-NAM-fixed,roc_auc,,0.1871,,,0.0139,1.0000,False,,
+S1,year,EBM,roc_auc,,0.7226,,,-0.0045,1.0000,False,,
+S1,year,XGBoost,roc_auc,,0.9591,,,-0.0007,1.0000,False,,
+S1,year,LightGBM,roc_auc,,0.2823,,,0.0167,1.0000,False,,
+S1,year,CatBoost,roc_auc,,0.8667,,,0.0023,1.0000,False,,
+S1,year,Random Forest,roc_auc,,0.2384,,,-0.0176,1.0000,False,,
+S1,year,SVM,roc_auc,,0.8808,,,0.0024,1.0000,False,,
+S1,year,TabPFN,roc_auc,,0.2678,,,-0.0145,1.0000,False,,

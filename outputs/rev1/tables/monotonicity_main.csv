@@ -1,0 +1,32 @@
+model,protocol,max_share,channel,windgust,windspeed,cloudcover,precip,snow
+PI-NAM,rand,0.0340,cloudcover,0.0000,0.0000,0.0340,0.0000,0.0000
+PI-NAM,block,0.0150,cloudcover,0.0000,0.0000,0.0150,0.0000,0.0000
+PI-NAM,year,0.0250,windspeed,0.0000,0.0250,0.0000,0.0000,0.0000
+PI-NAM-fixed,year,0.0000,windgust,0.0000,0.0000,0.0000,0.0000,0.0000
+EBM,rand,0.2679,cloudcover,0.0055,0.0563,0.2679,0.2060,0.0110
+EBM,block,0.2431,cloudcover,0.0179,0.0783,0.2431,0.1415,0.0014
+EBM,year,0.2377,windspeed,0.0027,0.2377,0.0000,0.0874,0.0000
+XGBoost-mono,rand,0.0000,windgust,0.0000,0.0000,0.0000,0.0000,0.0000
+XGBoost-mono,block,0.0000,windgust,0.0000,0.0000,0.0000,0.0000,0.0000
+XGBoost-mono,year,0.0000,windgust,0.0000,0.0000,0.0000,0.0000,0.0000
+LightGBM-mono,rand,0.0000,windgust,0.0000,0.0000,0.0000,0.0000,0.0000
+LightGBM-mono,block,0.0000,windgust,0.0000,0.0000,0.0000,0.0000,0.0000
+LightGBM-mono,year,0.0000,windgust,0.0000,0.0000,0.0000,0.0000,0.0000
+XGBoost,rand,0.1799,precip,0.0275,0.0783,0.1593,0.1799,0.0000
+XGBoost,block,0.1648,cloudcover,0.0288,0.0893,0.1648,0.1484,0.0000
+XGBoost,year,0.2049,precip,0.0355,0.1803,0.0082,0.2049,0.0000
+LightGBM,rand,0.2321,precip,0.0426,0.0508,0.1415,0.2321,0.0027
+LightGBM,block,0.2239,precip,0.0385,0.0591,0.1456,0.2239,0.0000
+LightGBM,year,0.1885,windspeed,0.0164,0.1885,0.0000,0.0000,0.0000
+CatBoost,rand,0.1676,precip,0.0124,0.0275,0.0481,0.1676,0.0082
+CatBoost,block,0.1305,precip,0.0137,0.0385,0.0261,0.1305,0.0151
+CatBoost,year,0.1776,precip,0.0328,0.1230,0.0137,0.1776,0.0355
+Random Forest,rand,0.0934,precip,0.0247,0.0082,0.0783,0.0934,0.0000
+Random Forest,block,0.0591,precip,0.0192,0.0179,0.0549,0.0591,0.0000
+Random Forest,year,0.0191,precip,0.0137,0.0082,0.0000,0.0191,0.0000
+SVM,rand,0.5701,precip,0.1731,0.2514,0.2363,0.5701,0.0646
+SVM,block,0.4918,precip,0.1690,0.2335,0.2102,0.4918,0.0769
+SVM,year,0.5137,windspeed,0.0137,0.5137,0.0109,0.4481,0.0027
+TabPFN~v2,rand,0.3310,precip,0.0302,0.0247,0.0398,0.3310,0.0275
+TabPFN~v2,block,0.3297,precip,0.0206,0.0330,0.0412,0.3297,0.0275
+TabPFN~v2,year,0.5109,precip,0.0301,0.0710,0.0027,0.5109,0.0628

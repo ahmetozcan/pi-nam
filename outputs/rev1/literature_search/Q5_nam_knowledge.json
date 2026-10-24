@@ -1,0 +1,582 @@
+[
+ {
+  "id": "https://openalex.org/W4306935463",
+  "doi": "https://doi.org/10.1145/3533271.3561691",
+  "display_name": "Monotonic Neural Additive Models: Pursuing Regulated Machine Learning Models for Credit Scoring",
+  "publication_year": 2022,
+  "primary_location": {
+   "id": "doi:10.1145/3533271.3561691",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.1145/3533271.3561691",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S7407087532",
+    "display_name": "ACM International Conference on AI in Finance (ICAIF)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "conference"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Proceedings of the Third ACM International Conference on AI in Finance",
+   "raw_type": "proceedings-article"
+  },
+  "type": "conference-paper"
+ },
+ {
+  "id": "https://openalex.org/W4317465472",
+  "doi": "https://doi.org/10.48550/arxiv.2301.07060",
+  "display_name": "Monotonicity for AI ethics and society: An empirical study of the monotonic neural additive model in criminology, education, health care, and finance",
+  "publication_year": 2023,
+  "primary_location": {
+   "id": "pmh:oai:RePEc:arx:papers:2301.07060",
+   "is_oa": false,
+   "landing_page_url": "http://arxiv.org/pdf/2301.07060",
+   "pdf_url": "http://arxiv.org/pdf/2301.07060",
+   "source": {
+    "id": "https://openalex.org/S4306401271",
+    "display_name": "RePEc: Research Papers in Economics",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/I77793887",
+    "host_organization_name": "Federal Reserve Bank of St. Louis",
+    "host_organization_lineage": [
+     "https://openalex.org/I77793887"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "preprint"
+  },
+  "type": "preprint"
+ },
+ {
+  "id": "https://openalex.org/W4297899373",
+  "doi": "https://doi.org/10.48550/arxiv.2209.10070",
+  "display_name": "Monotonic Neural Additive Models: Pursuing Regulated Machine Learning Models for Credit Scoring",
+  "publication_year": 2022,
+  "primary_location": {
+   "id": "pmh:oai:RePEc:arx:papers:2209.10070",
+   "is_oa": false,
+   "landing_page_url": "http://arxiv.org/pdf/2209.10070",
+   "pdf_url": "http://arxiv.org/pdf/2209.10070",
+   "source": {
+    "id": "https://openalex.org/S4306401271",
+    "display_name": "RePEc: Research Papers in Economics",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/I77793887",
+    "host_organization_name": "Federal Reserve Bank of St. Louis",
+    "host_organization_lineage": [
+     "https://openalex.org/I77793887"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "preprint"
+  },
+  "type": "preprint"
+ },
+ {
+  "id": "https://openalex.org/W7171694705",
+  "doi": "https://doi.org/10.2139/ssrn.6981179",
+  "display_name": "Explainable and Conflict-aware Cell Sleep Control In O-Ran via Monotonic Neural Additive Models",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "doi:10.2139/ssrn.6981179",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.2139/ssrn.6981179",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4210172589",
+    "display_name": "SSRN Electronic Journal",
+    "issn_l": "1556-5068",
+    "issn": [
+     "1556-5068"
+    ],
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/I1318003438",
+    "host_organization_name": "RELX Group (Netherlands)",
+    "host_organization_lineage": [
+     "https://openalex.org/I1318003438"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "acceptedVersion",
+   "is_accepted": true,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "posted-content"
+  },
+  "type": "preprint"
+ },
+ {
+  "id": "https://openalex.org/W7162812439",
+  "doi": "https://doi.org/10.1109/ojcoms.2026.3698326",
+  "display_name": "Explainable and Conflict-Aware Cell Sleep Control in O-RAN via Monotonic Neural Additive Models",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "doi:10.1109/ojcoms.2026.3698326",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.1109/ojcoms.2026.3698326",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4210202420",
+    "display_name": "IEEE Open Journal of the Communications Society",
+    "issn_l": "2644-125X",
+    "issn": [
+     "2644-125X"
+    ],
+    "is_oa": true,
+    "is_in_doaj": true,
+    "is_core": true,
+    "listed_in": [
+     "cwts-core",
+     "doaj",
+     "jufo-1",
+     "norway-1"
+    ],
+    "host_organization": "https://openalex.org/P4310316002",
+    "host_organization_name": "IEEE Communications Society",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310316002",
+     "https://openalex.org/P4310319808"
+    ],
+    "host_organization_lineage_names": [
+     "IEEE Communications Society",
+     "Institute of Electrical and Electronics Engineers"
+    ],
+    "type": "journal"
+   },
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "IEEE Open Journal of the Communications Society",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W7163688721",
+  "doi": "https://doi.org/10.36922/aih026130031",
+  "display_name": "Knowledge-constrained neural additive modeling for hypoglycemia risk stratification in older adults with type 2 diabetes",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "doi:10.36922/aih026130031",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.36922/aih026130031",
+   "pdf_url": "https://article.accscience.com/journal/AIH/online_first/aih026130031/article_aih0261300311_253806.pdf",
+   "source": {
+    "id": "https://openalex.org/S5407045065",
+    "display_name": "Artificial Intelligence in Health",
+    "issn_l": "3029-2387",
+    "issn": [
+     "3029-2387",
+     "3041-0894"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "journal"
+   },
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Artificial Intelligence in Health",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W4367701125",
+  "doi": "https://doi.org/10.48550/arxiv.2305.00799",
+  "display_name": "How to address monotonicity for model risk management?",
+  "publication_year": 2023,
+  "primary_location": {
+   "id": "pmh:oai:RePEc:arx:papers:2305.00799",
+   "is_oa": false,
+   "landing_page_url": "http://arxiv.org/pdf/2305.00799",
+   "pdf_url": "http://arxiv.org/pdf/2305.00799",
+   "source": {
+    "id": "https://openalex.org/S4306401271",
+    "display_name": "RePEc: Research Papers in Economics",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/I77793887",
+    "host_organization_name": "Federal Reserve Bank of St. Louis",
+    "host_organization_lineage": [
+     "https://openalex.org/I77793887"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "preprint"
+  },
+  "type": "preprint"
+ },
+ {
+  "id": "https://openalex.org/W7133133993",
+  "doi": "https://doi.org/10.3390/su18052368",
+  "display_name": "Sand–Steel Interface Performance Using Fibre Reinforcement: Experimental and Physics-Guided Artificial Intelligence Prediction",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "doi:10.3390/su18052368",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.3390/su18052368",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S10134376",
+    "display_name": "Sustainability",
+    "issn_l": "2071-1050",
+    "issn": [
+     "2071-1050"
+    ],
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": true,
+    "listed_in": [
+     "cwts-core"
+    ],
+    "host_organization": "https://openalex.org/P4310310987",
+    "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310310987"
+    ],
+    "host_organization_lineage_names": [
+     "Multidisciplinary Digital Publishing Institute"
+    ],
+    "type": "journal"
+   },
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Sustainability",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W7164136306",
+  "doi": "https://doi.org/10.1109/ojvt.2026.3702540",
+  "display_name": "Explainable and Physics-Aligned Handover Prediction for Cellular-Connected UAV Networks",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "doi:10.1109/ojvt.2026.3702540",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.1109/ojvt.2026.3702540",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4210201067",
+    "display_name": "IEEE Open Journal of Vehicular Technology",
+    "issn_l": "2644-1330",
+    "issn": [
+     "2644-1330"
+    ],
+    "is_oa": true,
+    "is_in_doaj": true,
+    "is_core": true,
+    "listed_in": [
+     "cwts-core",
+     "doaj",
+     "jufo-1",
+     "norway-1"
+    ],
+    "host_organization": "https://openalex.org/P4310319808",
+    "host_organization_name": "Institute of Electrical and Electronics Engineers",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310319808"
+    ],
+    "host_organization_lineage_names": [
+     "Institute of Electrical and Electronics Engineers"
+    ],
+    "type": "journal"
+   },
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "IEEE Open Journal of Vehicular Technology",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W4396749607",
+  "doi": "https://doi.org/10.1002/nme.7473",
+  "display_name": "Physics‐constrained symbolic model discovery for polyconvex incompressible hyperelastic materials",
+  "publication_year": 2024,
+  "primary_location": {
+   "id": "doi:10.1002/nme.7473",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.1002/nme.7473",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S165651092",
+    "display_name": "International Journal for Numerical Methods in Engineering",
+    "issn_l": "0029-5981",
+    "issn": [
+     "0029-5981",
+     "1097-0207"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": true,
+    "listed_in": [
+     "cwts-core",
+     "jufo-2",
+     "norway-2"
+    ],
+    "host_organization": "https://openalex.org/P4310320595",
+    "host_organization_name": "Wiley",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310320595"
+    ],
+    "host_organization_lineage_names": [
+     "Wiley"
+    ],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "International Journal for Numerical Methods in Engineering",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W7140218982",
+  "doi": "https://doi.org/10.1109/smap67528.2026.11439642",
+  "display_name": "Physics-Embedded ML Framework for Reconfigurable Bandstop Surface for Beyond 5G/6G Applications",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "doi:10.1109/smap67528.2026.11439642",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.1109/smap67528.2026.11439642",
+   "pdf_url": null,
+   "source": null,
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "2026 Symposium on Microwave, Antenna, and Propagation (SMAP)",
+   "raw_type": "proceedings-article"
+  },
+  "type": "conference-paper"
+ },
+ {
+  "id": "https://openalex.org/W4387595556",
+  "doi": "https://doi.org/10.48550/arxiv.2310.04286",
+  "display_name": "Physics-constrained symbolic model discovery for polyconvex incompressible hyperelastic materials",
+  "publication_year": 2023,
+  "primary_location": {
+   "id": "pmh:oai:arXiv.org:2310.04286",
+   "is_oa": true,
+   "landing_page_url": "http://arxiv.org/abs/2310.04286",
+   "pdf_url": "https://arxiv.org/pdf/2310.04286",
+   "source": {
+    "id": "https://openalex.org/S4306400194",
+    "display_name": "arXiv (Cornell University)",
+    "issn_l": "2331-8422",
+    "issn": [
+     "2331-8422"
+    ],
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/I205783295",
+    "host_organization_name": "Cornell University",
+    "host_organization_lineage": [
+     "https://openalex.org/I205783295"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "text"
+  },
+  "type": "preprint"
+ },
+ {
+  "id": "https://openalex.org/W4415129310",
+  "doi": "https://doi.org/10.1016/j.finel.2025.104466",
+  "display_name": "Analytical solutions for Cook’s membrane inferred by open-source learning algorithms: A critical assessment of the expressivity-complexity trade-off",
+  "publication_year": 2025,
+  "primary_location": {
+   "id": "doi:10.1016/j.finel.2025.104466",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.1016/j.finel.2025.104466",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S145843112",
+    "display_name": "Finite Elements in Analysis and Design",
+    "issn_l": "0168-874X",
+    "issn": [
+     "0168-874X",
+     "1872-6925"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": true,
+    "listed_in": [
+     "cwts-core",
+     "jufo-1",
+     "norway-1"
+    ],
+    "host_organization": "https://openalex.org/P4310320990",
+    "host_organization_name": "Elsevier BV",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310320990"
+    ],
+    "host_organization_lineage_names": [
+     "Elsevier BV"
+    ],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Finite Elements in Analysis and Design",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W7171371902",
+  "doi": "https://doi.org/10.1145/3842655.3844893",
+  "display_name": "Physically Constrained Federated Additive Models for O-RAN SLA-Risk Prediction",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "doi:10.1145/3842655.3844893",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.1145/3842655.3844893",
+   "pdf_url": null,
+   "source": null,
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Proceedings of the 3rd ACM Workshop on Open and AI RAN",
+   "raw_type": "proceedings-article"
+  },
+  "type": "conference-paper"
+ },
+ {
+  "id": "https://openalex.org/W4417070148",
+  "doi": "https://doi.org/10.1016/j.insmatheco.2026.103270",
+  "display_name": "An interpretable deep learning model for general insurance pricing",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "doi:10.1016/j.insmatheco.2026.103270",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.1016/j.insmatheco.2026.103270",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S198325475",
+    "display_name": "Insurance Mathematics and Economics",
+    "issn_l": "0167-6687",
+    "issn": [
+     "0167-6687",
+     "1873-5959"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": true,
+    "listed_in": [
+     "abdc-a-star",
+     "cwts-core",
+     "jufo-1",
+     "norway-1"
+    ],
+    "host_organization": "https://openalex.org/P4310320990",
+    "host_organization_name": "Elsevier BV",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310320990"
+    ],
+    "host_organization_lineage_names": [
+     "Elsevier BV"
+    ],
+    "type": "journal"
+   },
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Insurance: Mathematics and Economics",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ }
+]

@@ -48,10 +48,23 @@ MONO_DEC = ["windgust", "windspeed", "cloudcover", "precip", "snow"]
 
 # ── Feature construction (the searchable candidate space) ────────────────────
 
-def build_windows(raw, W=WINDOW):
+def build_windows(raw, W=WINDOW, lag=0, history=None):
+    """Causal W-day windows; row t of the output describes decision day t.
+
+    lag=0 (S0): window ends on day t itself (same-day daily values).
+    lag=1 (S1): window ends on day t-1, so no information from day t is used.
+    history: optional raw rows immediately preceding raw[0] (e.g. the warm-up
+    days dropped from the model frame), needed so that lag>0 has a past for t=0.
+    Missing early history is padded by repeating the oldest available row.
+    """
+    off = 0 if history is None else len(history)
+    ext = raw if history is None else np.vstack([history, raw])
     N = len(raw); win = np.zeros((N, W, raw.shape[1]), dtype=np.float32)
     for t in range(N):
-        lo = max(0, t - W + 1); s = raw[lo:t + 1]
+        end = t + off - lag
+        if end < 0:
+            raise ValueError(f"lag={lag} needs history before row {t}; pass `history`")
+        lo = max(0, end - W + 1); s = ext[lo:end + 1]
         if len(s) < W:
             s = np.vstack([np.repeat(s[:1], W - len(s), 0), s])
         win[t] = s
@@ -84,7 +97,7 @@ def temporal_block(win, stats, scales):
 N_SYNOPTIC = 10
 SYNOPTIC_NAMES = ["pressure_tendency", "pressure_std", "frontal_passage",
                   "clearness_trend", "dewdepr_trend", "winddir_steadiness",
-                  "recent_storminess", "fog_risk", "diurnal_range", "thermal_turbulence"]
+                  "recent_storminess", "calm_clear", "diurnal_range", "thermal_turbulence"]
 
 
 def synoptic_physics(win, scale=3):
@@ -92,7 +105,7 @@ def synoptic_physics(win, scale=3):
 
     scale: lookback (days) for tendencies/aggregates. Returns (B, 10):
       [pressure_tendency, pressure_std, frontal_passage, clearness_trend,
-       dewdepr_trend, winddir_steadiness, recent_storminess, fog_risk,
+       dewdepr_trend, winddir_steadiness, recent_storminess, calm_clear,
        diurnal_range, thermal_turbulence].
     """
     sc = min(scale, win.shape[1])
@@ -115,11 +128,11 @@ def synoptic_physics(win, scale=3):
     rad = seg[:, :, IDX["winddir"]] * (np.pi / 180.0)
     steady = torch.sqrt(torch.cos(rad).mean(1) ** 2 + torch.sin(rad).mean(1) ** 2 + 1e-9)
     storm = seg[:, :, IDX["windgust"]].amax(1)                   # peak recent gust
-    fog = clr * (1.0 / (dpdepr + 1.0)) * (1.0 / (ws + 1.0))      # radiative fog risk
+    calm = clr * (1.0 / (dpdepr + 1.0)) * (1.0 / (ws + 1.0))     # calm, clear, moist air
     diurnal = cur[:, IDX["tempmax"]] - cur[:, IDX["tempmin"]]    # stability/clarity proxy
     thermal = cur[:, IDX["tempmax"]] * clr                       # convective turbulence
     return torch.stack([p_tend, p_std, frontal, clr_trend, dpdepr_trend, steady,
-                        storm, fog, diurnal, thermal], dim=1)
+                        storm, calm, diurnal, thermal], dim=1)
 
 
 class DeepShapeNet(nn.Module):
@@ -182,6 +195,34 @@ class PINAMX(nn.Module):
         return torch.sigmoid(self._contributions(win).sum(1) + self.bias).squeeze(-1)
 
 
+class PhysMLP(PINAMX):
+    """Non-additive control for PI-NAM (rev1 stage 6): the same physics/temporal/synoptic
+    factors and normalisation, fed jointly into one MLP (width 2*hidden, `depth` hidden
+    layers) instead of per-factor shape functions. Interaction pairs are not added: the
+    MLP models interactions itself. Monotonicity is imposed by the same input-gradient
+    penalty, so lam_mono > 0 gives a physics-loss MLP without the additive structure."""
+
+    def __init__(self, feat_mean, feat_std, n_factors, spec, hidden=24, dropout=0.1,
+                 raw_mean=None, raw_std=None, depth=2):
+        super().__init__(feat_mean, feat_std, n_factors, {**spec, "interactions": False},
+                         hidden, dropout, raw_mean, raw_std, depth)
+        self.shapes = nn.ModuleList()
+        width = 2 * hidden
+        layers = [nn.Linear(n_factors, width), nn.ReLU()]
+        for _ in range(max(depth - 1, 0)):
+            layers += [nn.Linear(width, width), nn.ReLU()]
+        layers += [nn.Dropout(dropout), nn.Linear(width, 1)]
+        self.mlp = nn.Sequential(*layers)
+
+    def forward(self, win):
+        f = (self._raw_factors(win) - self.feat_mean) / self.feat_std
+        f = torch.nan_to_num(f, 0.0, 10.0, -10.0).clamp(-10, 10)
+        return torch.sigmoid(self.mlp(f) + self.bias).squeeze(-1)
+
+
+ARCHS = {"nam": PINAMX, "mlp": PhysMLP}
+
+
 def _n_factors(spec):
     """Number of additive 1-D factors (raw + physics + per-scale temporal stats + trend)."""
     n = len(RAW_CHANNELS)
@@ -212,14 +253,14 @@ def _mono_penalty(model, win):
 
 def train_pinamx(win_tr, y_tr, win_val, y_val, spec, lam_mono=0.03, hidden=24,
                  dropout=0.1, lr=5e-4, weight_decay=3e-4, max_epochs=400,
-                 patience=40, batch_size=32, seed=42, depth=2):
+                 patience=40, batch_size=32, seed=42, depth=2, arch="nam"):
     torch.manual_seed(seed)
     fm, fs = _feat_stats(win_tr, spec)
     cur = win_tr[:, -1, :]
     rm = torch.tensor(cur.mean(0), dtype=torch.float32)
     rsd = torch.tensor(cur.std(0) + 1e-6, dtype=torch.float32)
-    model = PINAMX(torch.tensor(fm), torch.tensor(fs), _n_factors(spec), spec, hidden, dropout,
-                   raw_mean=rm, raw_std=rsd, depth=depth)
+    model = ARCHS[arch](torch.tensor(fm), torch.tensor(fs), _n_factors(spec), spec, hidden,
+                        dropout, raw_mean=rm, raw_std=rsd, depth=depth)
     opt = torch.optim.Adam(model.parameters(), lr=lr, weight_decay=weight_decay)
     crit = nn.BCELoss()
     Xtr = torch.tensor(win_tr, dtype=torch.float32); ytr = torch.tensor(y_tr, dtype=torch.float32)
@@ -230,7 +271,7 @@ def train_pinamx(win_tr, y_tr, win_val, y_val, spec, lam_mono=0.03, hidden=24,
         model.train(); perm = torch.randperm(N)
         for b in range(0, N, batch_size):
             idx = perm[b:b + batch_size]
-            pred = model(Xtr[idx]).clamp(1e-6, 1 - 1e-6)
+            pred = model(Xtr[idx]).reshape(-1).clamp(1e-6, 1 - 1e-6)  # reshape: batch of 1
             loss = crit(pred, ytr[idx]) + lam_mono * _mono_penalty(model, Xtr[idx])
             opt.zero_grad(); loss.backward()
             torch.nn.utils.clip_grad_norm_(model.parameters(), 5.0); opt.step()
@@ -303,12 +344,13 @@ def run_pinamx_cv(raw, y, cfg, spec, lam_mono=0.03, hidden=24, dropout=0.1,
 
 
 def _fold_seed_worker(win_ti, y_ti, win_vi, y_vi, win_te, spec, lam, hidden,
-                      dropout, lr, wd, bs, seed, depth=2):
+                      dropout, lr, wd, bs, seed, depth=2, arch="nam"):
     """Train one (fold, seed) model in a worker process; return test/val probs + state."""
     import torch
     torch.set_num_threads(1)
     m = train_pinamx(win_ti, y_ti, win_vi, y_vi, spec, lam_mono=lam, hidden=hidden,
-                     dropout=dropout, lr=lr, weight_decay=wd, batch_size=bs, seed=seed, depth=depth)
+                     dropout=dropout, lr=lr, weight_decay=wd, batch_size=bs, seed=seed, depth=depth,
+                     arch=arch)
     return (predict_pinamx(m, win_te), predict_pinamx(m, win_vi),
             {k: v.cpu() for k, v in m.state_dict().items()})
 

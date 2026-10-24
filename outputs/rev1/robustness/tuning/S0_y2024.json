@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "info_set": "S0",
+    "scope": "y2024",
+    "n_rows": 366,
+    "fixed_spec": {
+      "physics": true,
+      "stats": [
+        "min"
+      ],
+      "scales": [
+        3,
+        7
+      ],
+      "interactions": true,
+      "synoptic": true,
+      "syn_scale": 5
+    },
+    "trials_baseline": 40,
+    "trials_pinam": 60,
+    "lam_mono_used": 10.0,
+    "minutes": 151.1
+  },
+  "baselines": {
+    "SVM": {
+      "C": 60.30156284585434,
+      "gamma": 0.00671822849883244
+    },
+    "XGBoost": {
+      "n_estimators": 395,
+      "max_depth": 7,
+      "learning_rate": 0.026375194061316394,
+      "subsample": 0.9297551359119535,
+      "colsample_bytree": 0.8204293611262345,
+      "reg_lambda": 4.542340825114669
+    },
+    "LightGBM": {
+      "n_estimators": 322,
+      "num_leaves": 40,
+      "max_depth": 5,
+      "learning_rate": 0.023927528765580644,
+      "subsample": 0.8447411578889518,
+      "colsample_bytree": 0.6557975442608167,
+      "min_child_samples": 15,
+      "reg_lambda": 1.8318092164684585
+    },
+    "Random Forest": {
+      "n_estimators": 563,
+      "max_depth": 13,
+      "min_samples_split": 5,
+      "min_samples_leaf": 1,
+      "max_features": "sqrt"
+    },
+    "CatBoost": {
+      "iterations": 528,
+      "depth": 7,
+      "learning_rate": 0.018187859051288217,
+      "l2_leaf_reg": 5.628109945722504
+    },
+    "TabPFN": {},
+    "EBM": {},
+    "XGBoost-mono": {
+      "n_estimators": 529,
+      "max_depth": 7,
+      "learning_rate": 0.01430504943208714,
+      "subsample": 0.7139927909084781,
+      "colsample_bytree": 0.6979002135771539,
+      "reg_lambda": 1.3200510789484112
+    }
+  },
+  "pinam": {
+    "spec": {
+      "physics": true,
+      "stats": [
+        "min"
+      ],
+      "scales": [
+        3,
+        7
+      ],
+      "interactions": true,
+      "synoptic": true,
+      "syn_scale": 5
+    },
+    "lam_mono": 0.061333368801189496,
+    "hidden": 64,
+    "dropout": 0.2,
+    "lr": 0.0005,
+    "weight_decay": 0.0003,
+    "batch_size": 32,
+    "depth": 2,
+    "arch": "nam"
+  }
+}

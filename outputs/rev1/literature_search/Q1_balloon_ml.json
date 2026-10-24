@@ -1,0 +1,1529 @@
+[
+ {
+  "id": "https://openalex.org/W3013441556",
+  "doi": null,
+  "display_name": "The Analysis of Hot-Air Balloon Accidents by Human Factor Analysis and Classification System",
+  "publication_year": 2020,
+  "primary_location": {
+   "id": "pmh:oai:ojs2.jast.msu.edu.tr:article/391",
+   "is_oa": true,
+   "landing_page_url": "https://jast.msu.edu.tr/index.php/JAST/article/view/391",
+   "pdf_url": "https://jast.msu.edu.tr/index.php/JAST/article/download/391/304",
+   "source": {
+    "id": "https://openalex.org/S2764645128",
+    "display_name": "Havacılık ve uzay teknolojileri dergisi",
+    "issn_l": "1304-0448",
+    "issn": [
+     "1304-0448",
+     "2148-1059"
+    ],
+    "is_oa": true,
+    "is_in_doaj": true,
+    "is_core": true,
+    "listed_in": [
+     "cwts-core",
+     "doaj"
+    ],
+    "host_organization": "https://openalex.org/I99312532",
+    "host_organization_name": "Turkish Air Force Academy",
+    "host_organization_lineage": [
+     "https://openalex.org/I99312532"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "journal"
+   },
+   "license": "cc-by-sa",
+   "license_id": "https://openalex.org/licenses/cc-by-sa",
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "1304-0448",
+   "raw_type": "info:eu-repo/semantics/article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W4414990444",
+  "doi": "https://doi.org/10.30518/jav.1697241",
+  "display_name": "Hot Air Balloon Accidents in Turkish Airspace: Human Factors Through RCA and HFACS",
+  "publication_year": 2025,
+  "primary_location": {
+   "id": "doi:10.30518/jav.1697241",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.30518/jav.1697241",
+   "pdf_url": "https://dergipark.org.tr/en/download/article-file/4860694",
+   "source": {
+    "id": "https://openalex.org/S4210204371",
+    "display_name": "Journal of Aviation",
+    "issn_l": "2587-1676",
+    "issn": [
+     "2587-1676"
+    ],
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/P4310318380",
+    "host_organization_name": "Süleyman Demirel University",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310318380"
+    ],
+    "host_organization_lineage_names": [
+     "Süleyman Demirel University"
+    ],
+    "type": "journal"
+   },
+   "license": "cc-by-nc",
+   "license_id": "https://openalex.org/licenses/cc-by-nc",
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Journal of Aviation",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W3087066723",
+  "doi": "https://doi.org/10.7507/1002-1892.202002104",
+  "display_name": "[Self-made dentation hook plate associated with hot-air balloon technique on treatment of Mutch Ⅰ or Ⅱ type isolated greater tuberosity fractures of humerus].",
+  "publication_year": 2020,
+  "primary_location": {
+   "id": "pmid:32929904",
+   "is_oa": false,
+   "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/32929904",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306525036",
+    "display_name": "PubMed",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/I1299303238",
+    "host_organization_name": "National Institutes of Health",
+    "host_organization_lineage": [
+     "https://openalex.org/I1299303238"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Zhongguo xiu fu chong jian wai ke za zhi = Zhongguo xiufu chongjian waike zazhi = Chinese journal of reparative and reconstructive surgery",
+   "raw_type": "Journal Article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W7166507880",
+  "doi": "https://doi.org/10.22541/essoar.15005338/v1",
+  "display_name": "A Machine Learning Framework for Event Detection and Analysis in Stratospheric Balloon Flight Data",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "doi:10.22541/essoar.15005338/v1",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.22541/essoar.15005338/v1",
+   "pdf_url": "https://essopenarchive.org/doi/pdf/10.22541/essoar.15005338/v1",
+   "source": null,
+   "license": null,
+   "license_id": null,
+   "version": "acceptedVersion",
+   "is_accepted": true,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "posted-content"
+  },
+  "type": "preprint"
+ },
+ {
+  "id": "https://openalex.org/W3114133634",
+  "doi": null,
+  "display_name": "Use of Neural Network Techniques to Identify Cosmic Ray Electrons and Positrons during the 1993 Balloon Flight of the NMSU/Wizard-TS93 Instrument",
+  "publication_year": 1995,
+  "primary_location": {
+   "id": "mag:3114133634",
+   "is_oa": false,
+   "landing_page_url": "https://ui.adsabs.harvard.edu/abs/1995ICRC....3..730B/abstract",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306513839",
+    "display_name": "International Cosmic Ray Conference",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "conference"
+   },
+   "license": null,
+   "license_id": null,
+   "version": null,
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": "International Cosmic Ray Conference",
+   "raw_type": null
+  },
+  "type": "conference-paper"
+ },
+ {
+  "id": "https://openalex.org/W4390062677",
+  "doi": "https://doi.org/10.1117/12.3012474",
+  "display_name": "Algorithm for urban air mobility object recognition based on spiking neural networks",
+  "publication_year": 2023,
+  "primary_location": {
+   "id": "doi:10.1117/12.3012474",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.1117/12.3012474",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S7407088439",
+    "display_name": "International Conference on Signal Processing and Computer Science (SPCS)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "conference"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Fourth International Conference on Signal Processing and Computer Science (SPCS 2023)",
+   "raw_type": "proceedings-article"
+  },
+  "type": "conference-paper"
+ },
+ {
+  "id": "https://openalex.org/W4307321068",
+  "doi": "https://doi.org/10.1117/12.2636244",
+  "display_name": "Two-step registration of near-space remote sensing images via deep neural networks",
+  "publication_year": 2022,
+  "primary_location": {
+   "id": "doi:10.1117/12.2636244",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.1117/12.2636244",
+   "pdf_url": null,
+   "source": null,
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Image and Signal Processing for Remote Sensing XXVIII",
+   "raw_type": "proceedings-article"
+  },
+  "type": "conference-paper"
+ },
+ {
+  "id": "https://openalex.org/W4402338440",
+  "doi": "https://doi.org/10.2172/2430354",
+  "display_name": "Clustering Acoustic Background Noise in the Stratosphere Using Machine Learning",
+  "publication_year": 2023,
+  "primary_location": {
+   "id": "doi:10.2172/2430354",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.2172/2430354",
+   "pdf_url": "http://dx.doi.org/10.2172/2430354",
+   "source": null,
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Sandia National Laboratories (SNL), Albuquerque, NM, and Livermore, CA (United States)",
+   "raw_type": "report"
+  },
+  "type": "report"
+ },
+ {
+  "id": "https://openalex.org/W4385306766",
+  "doi": "https://doi.org/10.22323/1.444.0125",
+  "display_name": "Recognitions of cosmic ray nuclear tracks in the GRAINE2018 emulsion films with machine learning approach",
+  "publication_year": 2023,
+  "primary_location": {
+   "id": "doi:10.22323/1.444.0125",
+   "is_oa": true,
+   "landing_page_url": "http://dx.doi.org/10.22323/1.444.0125",
+   "pdf_url": "https://pos.sissa.it/444/125/pdf",
+   "source": {
+    "id": "https://openalex.org/S4306513839",
+    "display_name": "International Cosmic Ray Conference",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "conference"
+   },
+   "license": "cc-by-nc-nd",
+   "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Proceedings of 38th International Cosmic Ray Conference — PoS(ICRC2023)",
+   "raw_type": "proceedings-article"
+  },
+  "type": "conference-paper"
+ },
+ {
+  "id": "https://openalex.org/W862689124",
+  "doi": "https://doi.org/10.4271/2015-01-2471",
+  "display_name": "Image Processing Based Air Vehicles Classification for UAV Sense and Avoid Systems",
+  "publication_year": 2015,
+  "primary_location": {
+   "id": "doi:10.4271/2015-01-2471",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.4271/2015-01-2471",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4210202285",
+    "display_name": "SAE technical papers on CD-ROM/SAE technical paper series",
+    "issn_l": "0148-7191",
+    "issn": [
+     "0148-7191",
+     "1083-4958",
+     "2688-3627"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": true,
+    "listed_in": [
+     "cwts-core",
+     "jufo-1",
+     "norway-1"
+    ],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "SAE Technical Paper Series",
+   "raw_type": "proceedings-article"
+  },
+  "type": "conference-paper"
+ },
+ {
+  "id": "https://openalex.org/W4235698139",
+  "doi": "https://doi.org/10.1201/9781003049210-24",
+  "display_name": "Epilogue",
+  "publication_year": 2021,
+  "primary_location": {
+   "id": "doi:10.1201/9781003049210-24",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.1201/9781003049210-24",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306463075",
+    "display_name": "CRC Press eBooks",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/P4310320584",
+    "host_organization_name": "CRC Press",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310320584",
+     "https://openalex.org/P4310320547"
+    ],
+    "host_organization_lineage_names": [
+     "CRC Press",
+     "Taylor & Francis"
+    ],
+    "type": "ebook platform"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Re-envisioning Remote Sensing Applications",
+   "raw_type": "book-chapter"
+  },
+  "type": "book-chapter"
+ },
+ {
+  "id": "https://openalex.org/W4250090846",
+  "doi": "https://doi.org/10.1002/9781118636459.ch01",
+  "display_name": "Introduction to Satellites and their Applications",
+  "publication_year": 2014,
+  "primary_location": {
+   "id": "doi:10.1002/9781118636459.ch01",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.1002/9781118636459.ch01",
+   "pdf_url": null,
+   "source": null,
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Satellite Technology",
+   "raw_type": "other"
+  },
+  "type": "other"
+ },
+ {
+  "id": "https://openalex.org/W3018878090",
+  "doi": "https://doi.org/10.1007/978-3-030-38712-9_10",
+  "display_name": "Image Processing in Unmanned Aerial Vehicles",
+  "publication_year": 2020,
+  "primary_location": {
+   "id": "doi:10.1007/978-3-030-38712-9_10",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.1007/978-3-030-38712-9_10",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4210207400",
+    "display_name": "Unmanned system technologies",
+    "issn_l": "2523-3734",
+    "issn": [
+     "2523-3734",
+     "2523-3742"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": true,
+    "listed_in": [
+     "cwts-core"
+    ],
+    "host_organization": "https://openalex.org/P4310319972",
+    "host_organization_name": "Springer International Publishing",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310319972",
+     "https://openalex.org/P4310319965"
+    ],
+    "host_organization_lineage_names": [
+     "Springer International Publishing",
+     "Springer Nature"
+    ],
+    "type": "book series"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Unmanned System Technologies",
+   "raw_type": "book-chapter"
+  },
+  "type": "book-chapter"
+ },
+ {
+  "id": "https://openalex.org/W7171719027",
+  "doi": "https://doi.org/10.2139/ssrn.7105038",
+  "display_name": "Inflated Expectations: Tax Law, Generative AI, and Lessons from the Balloon Age",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "doi:10.2139/ssrn.7105038",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.2139/ssrn.7105038",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4210172589",
+    "display_name": "SSRN Electronic Journal",
+    "issn_l": "1556-5068",
+    "issn": [
+     "1556-5068"
+    ],
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/I1318003438",
+    "host_organization_name": "RELX Group (Netherlands)",
+    "host_organization_lineage": [
+     "https://openalex.org/I1318003438"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "acceptedVersion",
+   "is_accepted": true,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "posted-content"
+  },
+  "type": "preprint"
+ },
+ {
+  "id": "https://openalex.org/W4237517919",
+  "doi": "https://doi.org/10.1007/978-3-319-30022-1_1",
+  "display_name": "Introduction",
+  "publication_year": 2016,
+  "primary_location": {
+   "id": "doi:10.1007/978-3-319-30022-1_1",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.1007/978-3-319-30022-1_1",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306463937",
+    "display_name": "Springer eBooks",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/P4310319965",
+    "host_organization_name": "Springer Nature",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310319965"
+    ],
+    "host_organization_lineage_names": [
+     "Springer Nature"
+    ],
+    "type": "ebook platform"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Basic Flight Mechanics",
+   "raw_type": "book-chapter"
+  },
+  "type": "book-chapter"
+ },
+ {
+  "id": "https://openalex.org/W4393472964",
+  "doi": "https://doi.org/10.5281/zenodo.8297256",
+  "display_name": "Synthetic Airborne Intruder Dataset: A dataset based on High-Resolution Inpainting for Safety Critical Detect and Avoid",
+  "publication_year": 2023,
+  "primary_location": {
+   "id": "pmh:oai:zenodo.org:8297256",
+   "is_oa": true,
+   "landing_page_url": "https://zenodo.org/record/8297256",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306400562",
+    "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/I67311998",
+    "host_organization_name": "European Organization for Nuclear Research",
+    "host_organization_lineage": [
+     "https://openalex.org/I67311998"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": "other-oa",
+   "license_id": "https://openalex.org/licenses/other-oa",
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": "",
+   "raw_type": "dataset"
+  },
+  "type": "dataset"
+ },
+ {
+  "id": "https://openalex.org/W4393576053",
+  "doi": "https://doi.org/10.5281/zenodo.8301120",
+  "display_name": "Synthetic Airborne Intruder Dataset: A dataset based on High-Resolution Inpainting for Safety Critical Detect and Avoid",
+  "publication_year": 2023,
+  "primary_location": {
+   "id": "pmh:oai:zenodo.org:8301120",
+   "is_oa": true,
+   "landing_page_url": "https://zenodo.org/record/8301120",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306400562",
+    "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/I67311998",
+    "host_organization_name": "European Organization for Nuclear Research",
+    "host_organization_lineage": [
+     "https://openalex.org/I67311998"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": "",
+   "raw_type": "dataset"
+  },
+  "type": "dataset"
+ },
+ {
+  "id": "https://openalex.org/W4393460563",
+  "doi": "https://doi.org/10.5281/zenodo.8297255",
+  "display_name": "Synthetic Airborne Intruder Dataset: A dataset based on High-Resolution Inpainting for Safety Critical Detect and Avoid",
+  "publication_year": 2023,
+  "primary_location": {
+   "id": "doi:10.5281/zenodo.8297255",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.5281/zenodo.8297255",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306400562",
+    "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/I67311998",
+    "host_organization_name": "European Organization for Nuclear Research",
+    "host_organization_lineage": [
+     "https://openalex.org/I67311998"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": null,
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "Dataset"
+  },
+  "type": "dataset"
+ },
+ {
+  "id": "https://openalex.org/W7106651184",
+  "doi": "https://doi.org/10.5281/zenodo.17716997",
+  "display_name": "THE COSMIC DANCE: AN INVITATION",
+  "publication_year": 2025,
+  "primary_location": {
+   "id": "doi:10.5281/zenodo.17716997",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.5281/zenodo.17716997",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306400562",
+    "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/I67311998",
+    "host_organization_name": "European Organization for Nuclear Research",
+    "host_organization_lineage": [
+     "https://openalex.org/I67311998"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": null,
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W7105818662",
+  "doi": "https://doi.org/10.5281/zenodo.17619921",
+  "display_name": "THE COSMIC DANCE: AN INVITATION",
+  "publication_year": 2025,
+  "primary_location": {
+   "id": "doi:10.5281/zenodo.17619921",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.5281/zenodo.17619921",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306400562",
+    "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/I67311998",
+    "host_organization_name": "European Organization for Nuclear Research",
+    "host_organization_lineage": [
+     "https://openalex.org/I67311998"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": null,
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W7171988623",
+  "doi": "https://doi.org/10.2139/ssrn.7130159",
+  "display_name": "Shadow Work and Protocols: A Contingent Case for Negligence in Agentic AI",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "doi:10.2139/ssrn.7130159",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.2139/ssrn.7130159",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4210172589",
+    "display_name": "SSRN Electronic Journal",
+    "issn_l": "1556-5068",
+    "issn": [
+     "1556-5068"
+    ],
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/I1318003438",
+    "host_organization_name": "RELX Group (Netherlands)",
+    "host_organization_lineage": [
+     "https://openalex.org/I1318003438"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "acceptedVersion",
+   "is_accepted": true,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "posted-content"
+  },
+  "type": "preprint"
+ },
+ {
+  "id": "https://openalex.org/W7156093329",
+  "doi": "https://doi.org/10.52540/2074-9457.2025.3.80",
+  "display_name": "INTERNATIONAL HISTORY OF FIRST AID, EMERGENCY MEDICAL CARE AND THEIR SUPPLY WITH MEDICATIONS",
+  "publication_year": 2025,
+  "primary_location": {
+   "id": "doi:10.52540/2074-9457.2025.3.80",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.52540/2074-9457.2025.3.80",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4210203313",
+    "display_name": "Vestnik Farmacii",
+    "issn_l": "2074-9457",
+    "issn": [
+     "2074-9457"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "journal"
+   },
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Vestnik Farmacii",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W7112922521",
+  "doi": null,
+  "display_name": "Fly the Coop - Pilot Script and Bible",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "pmh:oai:digitalcommons.hollins.edu:screenwritingtheses-1009",
+   "is_oa": false,
+   "landing_page_url": "https://digitalcommons.hollins.edu/screenwritingtheses/10",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4377196717",
+    "display_name": "Hollins Digital Commons (Hollins University)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/I185439253",
+    "host_organization_name": "Hollins University",
+    "host_organization_lineage": [
+     "https://openalex.org/I185439253"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": "Screenwriting and Film Studies Theses (MA/MFA)",
+   "raw_type": "text"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W328890796",
+  "doi": null,
+  "display_name": "California Beach Plant Biogeography: Biogeomorphology and Ecological Succession, Effects of Foot-Traffic Concentration, and Low-Altitude Aerial Photography",
+  "publication_year": null,
+  "primary_location": {
+   "id": "pmh:oai:pqdtoai.proquest.com:3544812",
+   "is_oa": false,
+   "landing_page_url": "http://pqdtopen.proquest.com/#viewpdf?dispub=3544812",
+   "pdf_url": "http://pqdtopen.proquest.com/#viewpdf?dispub=3544812",
+   "source": {
+    "id": "https://openalex.org/S7407064308",
+    "display_name": "ProQuest Demo Repository",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": "",
+   "raw_type": "thesis"
+  },
+  "type": "dissertation"
+ },
+ {
+  "id": "https://openalex.org/W7165831447",
+  "doi": null,
+  "display_name": "Comparative Analysis of Decision-Making Algorithms for False Alarm Mitigation in Aerial Object Detection",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "pmh:oai:DiVA.org:mdh-77805",
+   "is_oa": true,
+   "landing_page_url": "http://urn.kb.se/resolve?urn=urn:nbn:se:mdh:diva-77805",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306402234",
+    "display_name": "DiVA (Mälardalen University College)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/I82509713",
+    "host_organization_name": "Mälardalen University",
+    "host_organization_lineage": [
+     "https://openalex.org/I82509713"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": "other-oa",
+   "license_id": "https://openalex.org/licenses/other-oa",
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "info:eu-repo/semantics/bachelorThesis"
+  },
+  "type": "dissertation"
+ },
+ {
+  "id": "https://openalex.org/W2604745939",
+  "doi": "https://doi.org/10.1175/jamc-d-16-0294.1",
+  "display_name": "Reduced-Order Modeling of Stratospheric Winds and Its Application in High-Altitude Balloon Trajectory Simulations",
+  "publication_year": 2017,
+  "primary_location": {
+   "id": "doi:10.1175/jamc-d-16-0294.1",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.1175/jamc-d-16-0294.1",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S89108927",
+    "display_name": "Journal of Applied Meteorology and Climatology",
+    "issn_l": "1558-8424",
+    "issn": [
+     "1558-8424",
+     "1558-8432"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": true,
+    "listed_in": [
+     "cwts-core",
+     "jufo-1",
+     "norway-1"
+    ],
+    "host_organization": "https://openalex.org/P4310320260",
+    "host_organization_name": "American Meteorological Society",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310320260"
+    ],
+    "host_organization_lineage_names": [
+     "American Meteorological Society"
+    ],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Journal of Applied Meteorology and Climatology",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W2991782128",
+  "doi": "https://doi.org/10.48550/arxiv.1912.02276",
+  "display_name": "Enhancing Stratospheric Weather Analyses and Forecasts by Deploying Sensors from a Weather Balloon",
+  "publication_year": 2019,
+  "primary_location": {
+   "id": "pmh:oai:arXiv.org:1912.02276",
+   "is_oa": true,
+   "landing_page_url": "http://arxiv.org/abs/1912.02276",
+   "pdf_url": "https://arxiv.org/pdf/1912.02276",
+   "source": {
+    "id": "https://openalex.org/S4306400194",
+    "display_name": "arXiv (Cornell University)",
+    "issn_l": "2331-8422",
+    "issn": [
+     "2331-8422"
+    ],
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/I205783295",
+    "host_organization_name": "Cornell University",
+    "host_organization_lineage": [
+     "https://openalex.org/I205783295"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "text"
+  },
+  "type": "preprint"
+ },
+ {
+  "id": "https://openalex.org/W4246587285",
+  "doi": "https://doi.org/10.1353/ten.2021.0015",
+  "display_name": "Notre Occitanie by Hervé Di Rosa",
+  "publication_year": 2021,
+  "primary_location": {
+   "id": "doi:10.1353/ten.2021.0015",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.1353/ten.2021.0015",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S117803934",
+    "display_name": "Tenso",
+    "issn_l": "0890-3352",
+    "issn": [
+     "0890-3352",
+     "1944-0146"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Tenso",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W7135177917",
+  "doi": "https://doi.org/10.5194/egusphere-egu26-17676",
+  "display_name": "A New Hybrid PINN for High-Resolution Spatiotemporal Nowcasting of Stratospheric and Mesospheric States",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "doi:10.5194/egusphere-egu26-17676",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.5194/egusphere-egu26-17676",
+   "pdf_url": null,
+   "source": null,
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": "acceptedVersion",
+   "is_accepted": true,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "posted-content"
+  },
+  "type": "conference-abstract"
+ },
+ {
+  "id": "https://openalex.org/W2088482413",
+  "doi": "https://doi.org/10.1080/14786444908561374",
+  "display_name": "XCVIII. Nuclear transmutations produced by cosmic-ray particles of great energy",
+  "publication_year": 1949,
+  "primary_location": {
+   "id": "doi:10.1080/14786444908561374",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.1080/14786444908561374",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4210237994",
+    "display_name": "The London Edinburgh and Dublin Philosophical Magazine and Journal of Science",
+    "issn_l": "1941-5982",
+    "issn": [
+     "1941-5982",
+     "1941-5990"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/P4310320547",
+    "host_organization_name": "Taylor & Francis",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310320547",
+     "https://openalex.org/P4310320449"
+    ],
+    "host_organization_lineage_names": [
+     "Taylor & Francis",
+     "Informa"
+    ],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W1721608745",
+  "doi": "https://doi.org/10.1063/pt.3.2920",
+  "display_name": "Samuel Frederick Edwards",
+  "publication_year": 2015,
+  "primary_location": {
+   "id": "doi:10.1063/pt.3.2920",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.1063/pt.3.2920",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S180907581",
+    "display_name": "Physics Today",
+    "issn_l": "0031-9228",
+    "issn": [
+     "0031-9228",
+     "1945-0699"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": true,
+    "listed_in": [
+     "cwts-core",
+     "jufo-1",
+     "norway-1"
+    ],
+    "host_organization": "https://openalex.org/P4310320061",
+    "host_organization_name": "AIP Publishing",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310320061",
+     "https://openalex.org/P4310320257"
+    ],
+    "host_organization_lineage_names": [
+     "AIP Publishing",
+     "American Institute of Physics"
+    ],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Physics Today",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W4283220119",
+  "doi": "https://doi.org/10.1109/ietc54973.2022.9796883",
+  "display_name": "Identifying Patterns in Fault Recovery Techniques and Hardware Status of Radiation Tolerant Computers Using Principal Components Analysis",
+  "publication_year": 2022,
+  "primary_location": {
+   "id": "doi:10.1109/ietc54973.2022.9796883",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.1109/ietc54973.2022.9796883",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4363607610",
+    "display_name": "Intermountain Engineering, Technology and Computing (IETC)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "conference"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "2022 Intermountain Engineering, Technology and Computing (IETC)",
+   "raw_type": "proceedings-article"
+  },
+  "type": "conference-paper"
+ },
+ {
+  "id": "https://openalex.org/W2602642976",
+  "doi": null,
+  "display_name": "Analysis of 2015 Winter In-Flight Icing Case Studies with Ground-Based Remote Sensing Systems Compared to In-Situ SLW Sondes",
+  "publication_year": 2016,
+  "primary_location": {
+   "id": "mag:2602642976",
+   "is_oa": false,
+   "landing_page_url": "https://ntrs.nasa.gov/api/citations/20160013219/downloads/20160013219.pdf",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306402118",
+    "display_name": "NASA Technical Reports Server (NASA)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/I1305493378",
+    "host_organization_name": "NASA Headquarters",
+    "host_organization_lineage": [
+     "https://openalex.org/I1305493378"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": null,
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": null
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W1965636086",
+  "doi": "https://doi.org/10.2307/4145089",
+  "display_name": "\"Mathematical Modeling of Physical Systems\": An Introduction",
+  "publication_year": 2004,
+  "primary_location": {
+   "id": "doi:10.2307/4145089",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.2307/4145089",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S156280010",
+    "display_name": "American Mathematical Monthly",
+    "issn_l": "0002-9890",
+    "issn": [
+     "0002-9890",
+     "1930-0972"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [
+     "jufo-1",
+     "norway-1"
+    ],
+    "host_organization": "https://openalex.org/P4310320547",
+    "host_organization_name": "Taylor & Francis",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310320547",
+     "https://openalex.org/P4310320449"
+    ],
+    "host_organization_lineage_names": [
+     "Taylor & Francis",
+     "Informa"
+    ],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "The American Mathematical Monthly",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W2948025813",
+  "doi": null,
+  "display_name": "Mathematical Modeling of Physical Systems: An Introduction",
+  "publication_year": 2002,
+  "primary_location": {
+   "id": "mag:2948025813",
+   "is_oa": false,
+   "landing_page_url": "https://lib.ugent.be/en/catalog/rug01:001416203",
+   "pdf_url": null,
+   "source": null,
+   "license": null,
+   "license_id": null,
+   "version": null,
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": null
+  },
+  "type": "book"
+ },
+ {
+  "id": "https://openalex.org/W574888835",
+  "doi": null,
+  "display_name": "Hands-on chemistry activities with real-life applications",
+  "publication_year": 1999,
+  "primary_location": {
+   "id": "pmh:oai:aleph.bib-bvb.de:BVB01-024647688",
+   "is_oa": false,
+   "landing_page_url": "http://www.loc.gov/catdir/bios/wiley046/98038898.html",
+   "pdf_url": null,
+   "source": null,
+   "license": null,
+   "license_id": null,
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "text"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W4403505856",
+  "doi": "https://doi.org/10.5204/mcj.3098",
+  "display_name": "Paraliminal Conceptuality and the Abstract of Infinity, or Film Philosophy into LLMs Will Do Fine",
+  "publication_year": 2024,
+  "primary_location": {
+   "id": "doi:10.5204/mcj.3098",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.5204/mcj.3098",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S2736490681",
+    "display_name": "M/C Journal",
+    "issn_l": "1441-2616",
+    "issn": [
+     "1441-2616"
+    ],
+    "is_oa": true,
+    "is_in_doaj": true,
+    "is_core": true,
+    "listed_in": [
+     "cwts-core",
+     "doaj",
+     "jufo-1",
+     "norway-1"
+    ],
+    "host_organization": "https://openalex.org/P4310319749",
+    "host_organization_name": "Queensland University of Technology",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310319749"
+    ],
+    "host_organization_lineage_names": [
+     "Queensland University of Technology"
+    ],
+    "type": "journal"
+   },
+   "license": "cc-by-nc-nd",
+   "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "M/C Journal",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W3093438672",
+  "doi": "https://doi.org/10.5194/egusphere-egu2020-19778",
+  "display_name": "Aeolus Calibration, Validation and Science Campaigns",
+  "publication_year": 2020,
+  "primary_location": {
+   "id": "doi:10.5194/egusphere-egu2020-19778",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.5194/egusphere-egu2020-19778",
+   "pdf_url": null,
+   "source": null,
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": "acceptedVersion",
+   "is_accepted": true,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "posted-content"
+  },
+  "type": "conference-abstract"
+ },
+ {
+  "id": "https://openalex.org/W7132280367",
+  "doi": null,
+  "display_name": "Ground-based and balloon-borne far-infrared spectral observations to support the preparation of the FORUM mission",
+  "publication_year": 2022,
+  "primary_location": {
+   "id": "pmh:oai:dnet:people______::dd4382bf3c68486e68d3f6ec4f5010fc",
+   "is_oa": false,
+   "landing_page_url": "https://openportal.ino.cnr.it/doc?id=people______::dd4382bf3c68486e68d3f6ec4f5010fc",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S7407055307",
+    "display_name": "INO Open Portal",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": "2022 Living Planet Symposium, World Conference Center, Bonn, Germany, 23/05/2022-27/05/2022",
+   "raw_type": "info:eu-repo/semantics/conferenceObject"
+  },
+  "type": "conference-paper"
+ },
+ {
+  "id": "https://openalex.org/W4231266181",
+  "doi": "https://doi.org/10.5325/edgallpoerev.18.1.0097",
+  "display_name": "Abstracts for the PSA Panels at the American Literature Association Conference",
+  "publication_year": 2017,
+  "primary_location": {
+   "id": "doi:10.5325/edgallpoerev.18.1.0097",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.5325/edgallpoerev.18.1.0097",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S2764578428",
+    "display_name": "The Edgar Allan Poe Review",
+    "issn_l": "2150-0428",
+    "issn": [
+     "2150-0428",
+     "2166-2932"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [
+     "erih-plus",
+     "jufo-1"
+    ],
+    "host_organization": "https://openalex.org/P4310320470",
+    "host_organization_name": "Penn State University Press",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310320470"
+    ],
+    "host_organization_lineage_names": [
+     "Penn State University Press"
+    ],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "The Edgar Allan Poe Review",
+   "raw_type": "journal-article"
+  },
+  "type": "conference-abstract"
+ },
+ {
+  "id": "https://openalex.org/W4285130849",
+  "doi": "https://doi.org/10.5325/edgallpoerev.23.1.0087",
+  "display_name": "Poe in Cyberspace: “Fake it till you make it”",
+  "publication_year": 2022,
+  "primary_location": {
+   "id": "doi:10.5325/edgallpoerev.23.1.0087",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.5325/edgallpoerev.23.1.0087",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S2764578428",
+    "display_name": "The Edgar Allan Poe Review",
+    "issn_l": "2150-0428",
+    "issn": [
+     "2150-0428",
+     "2166-2932"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [
+     "erih-plus",
+     "jufo-1"
+    ],
+    "host_organization": "https://openalex.org/P4310320470",
+    "host_organization_name": "Penn State University Press",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310320470"
+    ],
+    "host_organization_lineage_names": [
+     "Penn State University Press"
+    ],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "The Edgar Allan Poe Review",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W2750426121",
+  "doi": "https://doi.org/10.1016/j.annemergmed.2010.04.003",
+  "display_name": "Is the Golden Hour Tarnished? Registries and Multivariable Regression",
+  "publication_year": 2010,
+  "primary_location": {
+   "id": "doi:10.1016/j.annemergmed.2010.04.003",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.1016/j.annemergmed.2010.04.003",
+   "pdf_url": "http://www.annemergmed.com/article/S0196064410003525/pdf",
+   "source": {
+    "id": "https://openalex.org/S116012647",
+    "display_name": "Annals of Emergency Medicine",
+    "issn_l": "0196-0644",
+    "issn": [
+     "0196-0644",
+     "1085-8717",
+     "1097-6760"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": true,
+    "listed_in": [
+     "cwts-core",
+     "doyens",
+     "jufo-2",
+     "ki-jl-2",
+     "medline",
+     "norway-1"
+    ],
+    "host_organization": "https://openalex.org/P4310320990",
+    "host_organization_name": "Elsevier BV",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310320990"
+    ],
+    "host_organization_lineage_names": [
+     "Elsevier BV"
+    ],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Annals of Emergency Medicine",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ }
+]

@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "info_set": "S0",
+    "scope": "y2023",
+    "n_rows": 362,
+    "trials_baseline": 40,
+    "trials_pinam": 60,
+    "minutes": 206.6
+  },
+  "baselines": {
+    "SVM": {
+      "C": 95.47040044508516,
+      "gamma": 0.014006659576620482
+    },
+    "XGBoost": {
+      "n_estimators": 306,
+      "max_depth": 8,
+      "learning_rate": 0.07487639950936342,
+      "subsample": 0.8811942780184533,
+      "colsample_bytree": 0.9611660942546368,
+      "reg_lambda": 1.7068390765625165
+    },
+    "LightGBM": {
+      "n_estimators": 578,
+      "num_leaves": 15,
+      "max_depth": 8,
+      "learning_rate": 0.010552829926879401,
+      "subsample": 0.9935496864584779,
+      "colsample_bytree": 0.9630659181130071,
+      "min_child_samples": 39,
+      "reg_lambda": 4.883839283223654
+    },
+    "Random Forest": {
+      "n_estimators": 350,
+      "max_depth": 20,
+      "min_samples_split": 8,
+      "min_samples_leaf": 5,
+      "max_features": "sqrt"
+    },
+    "CatBoost": {
+      "iterations": 487,
+      "depth": 8,
+      "learning_rate": 0.08960785365368121,
+      "l2_leaf_reg": 6.387926357773329
+    },
+    "TabPFN": {}
+  },
+  "pinam": {
+    "spec": {
+      "physics": true,
+      "stats": [
+        "mean",
+        "std",
+        "min"
+      ],
+      "scales": [
+        3,
+        7,
+        14
+      ],
+      "interactions": false,
+      "synoptic": false,
+      "syn_scale": 5
+    },
+    "lam_mono": 0.07252982785924417,
+    "hidden": 48,
+    "dropout": 0.2,
+    "lr": 0.0002,
+    "weight_decay": 0.0001,
+    "batch_size": 64,
+    "depth": 3
+  }
+}

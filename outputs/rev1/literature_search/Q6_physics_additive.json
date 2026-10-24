@@ -1,0 +1,1098 @@
+[
+ {
+  "id": "https://openalex.org/W4415311426",
+  "doi": "https://doi.org/10.48550/arxiv.2509.02649",
+  "display_name": "Fast kernel methods: Sobolev, physics-informed, and additive models",
+  "publication_year": 2025,
+  "primary_location": {
+   "id": "pmh:oai:arXiv.org:2509.02649",
+   "is_oa": true,
+   "landing_page_url": "http://arxiv.org/abs/2509.02649",
+   "pdf_url": "https://arxiv.org/pdf/2509.02649",
+   "source": {
+    "id": "https://openalex.org/S4306400194",
+    "display_name": "arXiv (Cornell University)",
+    "issn_l": "2331-8422",
+    "issn": [
+     "2331-8422"
+    ],
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/I205783295",
+    "host_organization_name": "Cornell University",
+    "host_organization_lineage": [
+     "https://openalex.org/I205783295"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "text"
+  },
+  "type": "preprint"
+ },
+ {
+  "id": "https://openalex.org/W7165201939",
+  "doi": "https://doi.org/10.5281/zenodo.20746844",
+  "display_name": "Sajad-Hussaini/PINAGMM: Physics-Informed Neural Additive Ground Motion Model",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "doi:10.5281/zenodo.20746844",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.5281/zenodo.20746844",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306400562",
+    "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/I67311998",
+    "host_organization_name": "European Organization for Nuclear Research",
+    "host_organization_lineage": [
+     "https://openalex.org/I67311998"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": null,
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "Software"
+  },
+  "type": "software"
+ },
+ {
+  "id": "https://openalex.org/W7172533386",
+  "doi": "https://doi.org/10.5281/zenodo.21807747",
+  "display_name": "Sajad-Hussaini/pinagmm: Physics-Informed Neural Additive Ground Motion Model",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "doi:10.5281/zenodo.21807747",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.5281/zenodo.21807747",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306400562",
+    "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/I67311998",
+    "host_organization_name": "European Organization for Nuclear Research",
+    "host_organization_lineage": [
+     "https://openalex.org/I67311998"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": null,
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "Software"
+  },
+  "type": "software"
+ },
+ {
+  "id": "https://openalex.org/W7165179485",
+  "doi": "https://doi.org/10.5281/zenodo.20746843",
+  "display_name": "Sajad-Hussaini/pinagmm: Physics-Informed Neural Additive Ground Motion Model",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "doi:10.5281/zenodo.20746843",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.5281/zenodo.20746843",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306400562",
+    "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/I67311998",
+    "host_organization_name": "European Organization for Nuclear Research",
+    "host_organization_lineage": [
+     "https://openalex.org/I67311998"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": null,
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "Software"
+  },
+  "type": "software"
+ },
+ {
+  "id": "https://openalex.org/W4317790641",
+  "doi": "https://doi.org/10.2118/212666-ms",
+  "display_name": "Physics Informed Machine Learning for Production Forecast",
+  "publication_year": 2023,
+  "primary_location": {
+   "id": "doi:10.2118/212666-ms",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.2118/212666-ms",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306530704",
+    "display_name": "SPE Reservoir Characterisation and Simulation Conference and Exhibition",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "conference"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "SPE Reservoir Characterisation and Simulation Conference and Exhibition",
+   "raw_type": "proceedings-article"
+  },
+  "type": "conference-paper"
+ },
+ {
+  "id": "https://openalex.org/W7204878076",
+  "doi": "https://doi.org/10.48550/arxiv.2608.28870",
+  "display_name": "Physics-Informed Basis Functions for Nonlinear Response Curve Decomposition: A Parsimonious Alternative to Splines",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "pmh:oai:arXiv.org:2608.28870",
+   "is_oa": true,
+   "landing_page_url": "https://arxiv.org/abs/2608.28870",
+   "pdf_url": "https://arxiv.org/pdf/2608.28870",
+   "source": {
+    "id": "https://openalex.org/S4306400194",
+    "display_name": "arXiv (Cornell University)",
+    "issn_l": "2331-8422",
+    "issn": [
+     "2331-8422"
+    ],
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/I205783295",
+    "host_organization_name": "Cornell University",
+    "host_organization_lineage": [
+     "https://openalex.org/I205783295"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "text"
+  },
+  "type": "preprint"
+ },
+ {
+  "id": "https://openalex.org/W4413990608",
+  "doi": "https://doi.org/10.3390/e27090934",
+  "display_name": "Time-Varying Autoregressive Models: A Novel Approach Using Physics-Informed Neural Networks",
+  "publication_year": 2025,
+  "primary_location": {
+   "id": "doi:10.3390/e27090934",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.3390/e27090934",
+   "pdf_url": "https://www.mdpi.com/1099-4300/27/9/934/pdf?version=1756982182",
+   "source": {
+    "id": "https://openalex.org/S195231649",
+    "display_name": "Entropy",
+    "issn_l": "1099-4300",
+    "issn": [
+     "1099-4300"
+    ],
+    "is_oa": true,
+    "is_in_doaj": true,
+    "is_core": true,
+    "listed_in": [
+     "cwts-core",
+     "doaj",
+     "norway-1"
+    ],
+    "host_organization": "https://openalex.org/P4310310987",
+    "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310310987"
+    ],
+    "host_organization_lineage_names": [
+     "Multidisciplinary Digital Publishing Institute"
+    ],
+    "type": "journal"
+   },
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Entropy",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W7169607970",
+  "doi": "https://doi.org/10.5281/zenodo.21413636",
+  "display_name": "TAM: Time series Additive Model",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "doi:10.5281/zenodo.21413636",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.5281/zenodo.21413636",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306400562",
+    "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/I67311998",
+    "host_organization_name": "European Organization for Nuclear Research",
+    "host_organization_lineage": [
+     "https://openalex.org/I67311998"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": null,
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "Software"
+  },
+  "type": "software"
+ },
+ {
+  "id": "https://openalex.org/W7163908494",
+  "doi": "https://doi.org/10.5281/zenodo.20543272",
+  "display_name": "TAM: Time series Additive Model",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "doi:10.5281/zenodo.20543272",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.5281/zenodo.20543272",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306400562",
+    "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/I67311998",
+    "host_organization_name": "European Organization for Nuclear Research",
+    "host_organization_lineage": [
+     "https://openalex.org/I67311998"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": null,
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "Software"
+  },
+  "type": "software"
+ },
+ {
+  "id": "https://openalex.org/W7214960813",
+  "doi": "https://doi.org/10.5281/zenodo.23070877",
+  "display_name": "TAM: Time series Additive Model",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "doi:10.5281/zenodo.23070877",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.5281/zenodo.23070877",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306400562",
+    "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/I67311998",
+    "host_organization_name": "European Organization for Nuclear Research",
+    "host_organization_lineage": [
+     "https://openalex.org/I67311998"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": null,
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "Software"
+  },
+  "type": "software"
+ },
+ {
+  "id": "https://openalex.org/W4405032572",
+  "doi": "https://doi.org/10.48550/arxiv.2412.00225",
+  "display_name": "Meta-learning Loss Functions of Parametric Partial Differential Equations Using Physics-Informed Neural Networks",
+  "publication_year": 2024,
+  "primary_location": {
+   "id": "pmh:oai:arXiv.org:2412.00225",
+   "is_oa": true,
+   "landing_page_url": "http://arxiv.org/abs/2412.00225",
+   "pdf_url": "https://arxiv.org/pdf/2412.00225",
+   "source": {
+    "id": "https://openalex.org/S4306400194",
+    "display_name": "arXiv (Cornell University)",
+    "issn_l": "2331-8422",
+    "issn": [
+     "2331-8422"
+    ],
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/I205783295",
+    "host_organization_name": "Cornell University",
+    "host_organization_lineage": [
+     "https://openalex.org/I205783295"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "text"
+  },
+  "type": "preprint"
+ },
+ {
+  "id": "https://openalex.org/W4406844759",
+  "doi": "https://doi.org/10.1007/978-3-031-78977-9_12",
+  "display_name": "Meta-learning Loss Functions of Parametric Partial Differential Equations Using Physics-Informed Neural Networks",
+  "publication_year": 2025,
+  "primary_location": {
+   "id": "doi:10.1007/978-3-031-78977-9_12",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.1007/978-3-031-78977-9_12",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S106296714",
+    "display_name": "Lecture notes in computer science",
+    "issn_l": "0302-9743",
+    "issn": [
+     "0302-9743",
+     "1611-3349"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": true,
+    "listed_in": [
+     "cwts-core",
+     "jufo-1",
+     "ki-jl-1",
+     "norway-1"
+    ],
+    "host_organization": "https://openalex.org/P4310319900",
+    "host_organization_name": "Springer Science+Business Media",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310319900",
+     "https://openalex.org/P4310319965"
+    ],
+    "host_organization_lineage_names": [
+     "Springer Science+Business Media",
+     "Springer Nature"
+    ],
+    "type": "book series"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Lecture Notes in Computer Science",
+   "raw_type": "book-chapter"
+  },
+  "type": "conference-paper"
+ },
+ {
+  "id": "https://openalex.org/W7163894394",
+  "doi": "https://doi.org/10.5281/zenodo.20543271",
+  "display_name": "TAM: Time series Additive Model",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "doi:10.5281/zenodo.20543271",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.5281/zenodo.20543271",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306400562",
+    "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/I67311998",
+    "host_organization_name": "European Organization for Nuclear Research",
+    "host_organization_lineage": [
+     "https://openalex.org/I67311998"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": null,
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "Software"
+  },
+  "type": "software"
+ },
+ {
+  "id": "https://openalex.org/W7220744378",
+  "doi": "https://doi.org/10.5281/zenodo.23171729",
+  "display_name": "TAM: Time series Additive Model",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "doi:10.5281/zenodo.23171729",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.5281/zenodo.23171729",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306400562",
+    "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/I67311998",
+    "host_organization_name": "European Organization for Nuclear Research",
+    "host_organization_lineage": [
+     "https://openalex.org/I67311998"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": null,
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "Software"
+  },
+  "type": "software"
+ },
+ {
+  "id": "https://openalex.org/W4415704780",
+  "doi": "https://doi.org/10.1016/j.isatra.2025.10.035",
+  "display_name": "Physics-informed dynamic hybrid modeling for real-time renewable CO2 tracking in refinery co-processing",
+  "publication_year": 2025,
+  "primary_location": {
+   "id": "doi:10.1016/j.isatra.2025.10.035",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.1016/j.isatra.2025.10.035",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S89543202",
+    "display_name": "ISA Transactions",
+    "issn_l": "0019-0578",
+    "issn": [
+     "0019-0578",
+     "1879-2022"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": true,
+    "listed_in": [
+     "cwts-core",
+     "jufo-2",
+     "medline",
+     "norway-1"
+    ],
+    "host_organization": "https://openalex.org/P4310320990",
+    "host_organization_name": "Elsevier BV",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310320990"
+    ],
+    "host_organization_lineage_names": [
+     "Elsevier BV"
+    ],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "ISA Transactions",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W7203627485",
+  "doi": "https://doi.org/10.1016/j.ceramint.2026.08.240",
+  "display_name": "Physics-informed machine learning for oxide glass density prediction: An interpretable XGBoost framework",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "doi:10.1016/j.ceramint.2026.08.240",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.1016/j.ceramint.2026.08.240",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S106928643",
+    "display_name": "Ceramics International",
+    "issn_l": "0272-8842",
+    "issn": [
+     "0272-8842",
+     "1873-3956"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": true,
+    "listed_in": [
+     "cwts-core",
+     "jufo-1",
+     "ki-jl-1",
+     "norway-1"
+    ],
+    "host_organization": "https://openalex.org/P4310320990",
+    "host_organization_name": "Elsevier BV",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310320990"
+    ],
+    "host_organization_lineage_names": [
+     "Elsevier BV"
+    ],
+    "type": "journal"
+   },
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Ceramics International",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W7171399426",
+  "doi": "https://doi.org/10.5957/jst/2026.11.1.238",
+  "display_name": "Physics-Guided Machine Learning for Performance Modelling of the Nacra 17 Class",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "doi:10.5957/jst/2026.11.1.238",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.5957/jst/2026.11.1.238",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4210240646",
+    "display_name": "Journal of Sailing Technology",
+    "issn_l": "2475-370X",
+    "issn": [
+     "2475-370X"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [
+     "norway-1"
+    ],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Journal of Sailing Technology",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W7161840215",
+  "doi": "https://doi.org/10.58032/agh/jjomnf",
+  "display_name": "Python scripts for Physics-informed machine learning for oxide glass density prediction: An interpretable XGBoost framework - research data",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "doi:10.58032/agh/jjomnf",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.58032/agh/jjomnf",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S7407050526",
+    "display_name": "Akademia Górniczo-Hutnicza w Krakowie",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": null,
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "Dataset"
+  },
+  "type": "dataset"
+ },
+ {
+  "id": "https://openalex.org/W7133133993",
+  "doi": "https://doi.org/10.3390/su18052368",
+  "display_name": "Sand–Steel Interface Performance Using Fibre Reinforcement: Experimental and Physics-Guided Artificial Intelligence Prediction",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "doi:10.3390/su18052368",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.3390/su18052368",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S10134376",
+    "display_name": "Sustainability",
+    "issn_l": "2071-1050",
+    "issn": [
+     "2071-1050"
+    ],
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": true,
+    "listed_in": [
+     "cwts-core"
+    ],
+    "host_organization": "https://openalex.org/P4310310987",
+    "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310310987"
+    ],
+    "host_organization_lineage_names": [
+     "Multidisciplinary Digital Publishing Institute"
+    ],
+    "type": "journal"
+   },
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Sustainability",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W4415129310",
+  "doi": "https://doi.org/10.1016/j.finel.2025.104466",
+  "display_name": "Analytical solutions for Cook’s membrane inferred by open-source learning algorithms: A critical assessment of the expressivity-complexity trade-off",
+  "publication_year": 2025,
+  "primary_location": {
+   "id": "doi:10.1016/j.finel.2025.104466",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.1016/j.finel.2025.104466",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S145843112",
+    "display_name": "Finite Elements in Analysis and Design",
+    "issn_l": "0168-874X",
+    "issn": [
+     "0168-874X",
+     "1872-6925"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": true,
+    "listed_in": [
+     "cwts-core",
+     "jufo-1",
+     "norway-1"
+    ],
+    "host_organization": "https://openalex.org/P4310320990",
+    "host_organization_name": "Elsevier BV",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310320990"
+    ],
+    "host_organization_lineage_names": [
+     "Elsevier BV"
+    ],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Finite Elements in Analysis and Design",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W4416716929",
+  "doi": "https://doi.org/10.3390/fractalfract9120772",
+  "display_name": "Fractional Time-Varying Autoregressive Modeling: Parallel GAM and PINN Approaches to Dynamic Volatility Forecasting",
+  "publication_year": 2025,
+  "primary_location": {
+   "id": "doi:10.3390/fractalfract9120772",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.3390/fractalfract9120772",
+   "pdf_url": "https://www.mdpi.com/2504-3110/9/12/772/pdf?version=1764170766",
+   "source": {
+    "id": "https://openalex.org/S4210227020",
+    "display_name": "Fractal and Fractional",
+    "issn_l": "2504-3110",
+    "issn": [
+     "2504-3110"
+    ],
+    "is_oa": true,
+    "is_in_doaj": true,
+    "is_core": true,
+    "listed_in": [
+     "cwts-core",
+     "doaj",
+     "norway-1"
+    ],
+    "host_organization": "https://openalex.org/P4310310987",
+    "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310310987"
+    ],
+    "host_organization_lineage_names": [
+     "Multidisciplinary Digital Publishing Institute"
+    ],
+    "type": "journal"
+   },
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Fractal and Fractional",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W7162306772",
+  "doi": "https://doi.org/10.1038/s41598-026-52822-y",
+  "display_name": "Interpretable and extrapolation-stable model for predicting nanofluid thermal conductivity",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "doi:10.1038/s41598-026-52822-y",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.1038/s41598-026-52822-y",
+   "pdf_url": "https://www.nature.com/articles/s41598-026-52822-y.pdf",
+   "source": {
+    "id": "https://openalex.org/S196734849",
+    "display_name": "Scientific Reports",
+    "issn_l": "2045-2322",
+    "issn": [
+     "2045-2322"
+    ],
+    "is_oa": true,
+    "is_in_doaj": true,
+    "is_core": true,
+    "listed_in": [
+     "cwts-core",
+     "doaj",
+     "doyens",
+     "jufo-1",
+     "ki-jl-1",
+     "medline",
+     "norway-1"
+    ],
+    "host_organization": "https://openalex.org/P4310319908",
+    "host_organization_name": "Nature Portfolio",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310319908",
+     "https://openalex.org/P4310319965"
+    ],
+    "host_organization_lineage_names": [
+     "Nature Portfolio",
+     "Springer Nature"
+    ],
+    "type": "journal"
+   },
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Scientific Reports",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W7167956707",
+  "doi": "https://doi.org/10.1016/j.ejrh.2026.103719",
+  "display_name": "Explainable deep learning for predicting lake expansion in the Siling Co Endorheic basin: Unraveling driver shifts and hydro-climatic tipping points",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "doi:10.1016/j.ejrh.2026.103719",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.1016/j.ejrh.2026.103719",
+   "pdf_url": "https://www.sciencedirect.com/science/article/pii/S2214581826006178/pdf",
+   "source": {
+    "id": "https://openalex.org/S2898247721",
+    "display_name": "Journal of Hydrology Regional Studies",
+    "issn_l": "2214-5818",
+    "issn": [
+     "2214-5818"
+    ],
+    "is_oa": true,
+    "is_in_doaj": true,
+    "is_core": true,
+    "listed_in": [
+     "cwts-core",
+     "doaj",
+     "jufo-1",
+     "norway-1"
+    ],
+    "host_organization": "https://openalex.org/P4310320990",
+    "host_organization_name": "Elsevier BV",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310320990"
+    ],
+    "host_organization_lineage_names": [
+     "Elsevier BV"
+    ],
+    "type": "journal"
+   },
+   "license": "cc-by-nc-nd",
+   "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Journal of Hydrology: Regional Studies",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W4408431394",
+  "doi": "https://doi.org/10.5194/egusphere-egu25-12455",
+  "display_name": "Longitudinal Effects of Earthquake-Induced Landslide Susceptibility in Papua New Guinea",
+  "publication_year": 2025,
+  "primary_location": {
+   "id": "doi:10.5194/egusphere-egu25-12455",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.5194/egusphere-egu25-12455",
+   "pdf_url": null,
+   "source": null,
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": "acceptedVersion",
+   "is_accepted": true,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "posted-content"
+  },
+  "type": "conference-abstract"
+ },
+ {
+  "id": "https://openalex.org/W7154391475",
+  "doi": "https://doi.org/10.1109/tim.2026.3682830",
+  "display_name": "Multifeature Fusion of Noncontact Laser-Generated Ultrasound and Electrochemical Data for In Situ Battery State Estimation",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "doi:10.1109/tim.2026.3682830",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.1109/tim.2026.3682830",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S10892749",
+    "display_name": "IEEE Transactions on Instrumentation and Measurement",
+    "issn_l": "0018-9456",
+    "issn": [
+     "0018-9456",
+     "1557-9662"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": true,
+    "listed_in": [
+     "cwts-core",
+     "jufo-3",
+     "norway-1"
+    ],
+    "host_organization": "https://openalex.org/P4310319808",
+    "host_organization_name": "Institute of Electrical and Electronics Engineers",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310319808"
+    ],
+    "host_organization_lineage_names": [
+     "Institute of Electrical and Electronics Engineers"
+    ],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "IEEE Transactions on Instrumentation and Measurement",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W4415551917",
+  "doi": "https://doi.org/10.1080/17452759.2025.2575397",
+  "display_name": "Machine learning-based printability assessment and process control of aerosol jet 2D and 3D Printed PEDOT:PSS-based microstructures",
+  "publication_year": 2025,
+  "primary_location": {
+   "id": "doi:10.1080/17452759.2025.2575397",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.1080/17452759.2025.2575397",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S152936027",
+    "display_name": "Virtual and Physical Prototyping",
+    "issn_l": "1745-2759",
+    "issn": [
+     "1745-2759",
+     "1745-2767"
+    ],
+    "is_oa": true,
+    "is_in_doaj": true,
+    "is_core": true,
+    "listed_in": [
+     "cwts-core",
+     "doaj",
+     "jufo-1",
+     "norway-1"
+    ],
+    "host_organization": "https://openalex.org/P4310320547",
+    "host_organization_name": "Taylor & Francis",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310320547",
+     "https://openalex.org/P4310320449"
+    ],
+    "host_organization_lineage_names": [
+     "Taylor & Francis",
+     "Informa"
+    ],
+    "type": "journal"
+   },
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Virtual and Physical Prototyping",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W4415173187",
+  "doi": "https://doi.org/10.20944/preprints202510.0914.v1",
+  "display_name": "Two–Channel Future Mass Projection (FMP) vs. ΛCDM on SPARC Rotation Curves Kernel–Modulated Baryons with Lensing Coherence and Competitive to Superior Fits",
+  "publication_year": 2025,
+  "primary_location": {
+   "id": "doi:10.20944/preprints202510.0914.v1",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.20944/preprints202510.0914.v1",
+   "pdf_url": "https://www.preprints.org/frontend/manuscript/c32db5f51ce553583e10eb3b5afb433f/download_pub",
+   "source": {
+    "id": "https://openalex.org/S6309402219",
+    "display_name": "Preprints.org",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [
+     "https://openalex.org/P4310310987"
+    ],
+    "host_organization_lineage_names": [
+     "Multidisciplinary Digital Publishing Institute"
+    ],
+    "type": "repository"
+   },
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": "acceptedVersion",
+   "is_accepted": true,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "posted-content"
+  },
+  "type": "preprint"
+ }
+]

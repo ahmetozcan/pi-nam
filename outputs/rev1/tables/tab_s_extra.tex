@@ -1,0 +1,15 @@
+\begin{tabular}{lccccccccc}
+\toprule
+ & \multicolumn{3}{c}{Random CV} & \multicolumn{3}{c}{Blocked CV} & \multicolumn{3}{c}{Year-ahead} \\
+\cmidrule(lr){2-4}\cmidrule(lr){5-7}\cmidrule(lr){8-10}
+Model & AUC & BAcc & MCC & AUC & BAcc & MCC & AUC & BAcc & MCC \\
+\midrule
+PI-NAM & 0.907 & 0.798 & 0.640 & 0.853 & 0.704 & 0.467 & 0.872 & 0.787 & 0.561 \\
+XGBoost-mono & 0.899 & 0.791 & 0.617 & 0.846 & 0.729 & 0.484 & 0.876 & 0.782 & 0.572 \\
+LightGBM-mono & 0.896 & 0.806 & 0.638 & 0.838 & 0.721 & 0.471 & 0.880 & 0.793 & 0.600 \\
+XGBoost-derived & 0.912 & 0.816 & 0.656 & 0.858 & 0.723 & 0.480 & 0.887 & 0.795 & 0.575 \\
+LightGBM-derived & 0.907 & 0.814 & 0.649 & 0.853 & 0.726 & 0.486 & 0.882 & 0.782 & 0.572 \\
+MLP-phys ($\lambda = 0$) & 0.887 & 0.779 & 0.587 & 0.817 & 0.693 & 0.416 & 0.871 & 0.778 & 0.540 \\
+MLP-phys-mono ($\lambda = 10$) & 0.890 & 0.774 & 0.582 & 0.824 & 0.696 & 0.429 & 0.876 & 0.778 & 0.536 \\
+\bottomrule
+\end{tabular}

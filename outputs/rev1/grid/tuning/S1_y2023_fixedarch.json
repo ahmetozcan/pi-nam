@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "info_set": "S1",
+    "scope": "y2023",
+    "fixed_spec": {
+      "physics": true,
+      "stats": [
+        "min"
+      ],
+      "scales": [
+        3,
+        7
+      ],
+      "interactions": true,
+      "synoptic": true,
+      "syn_scale": 5
+    },
+    "n_rows": 362,
+    "trials_pinam": 60,
+    "minutes": 183.8
+  },
+  "baselines": {},
+  "pinam": {
+    "spec": {
+      "physics": true,
+      "stats": [
+        "min"
+      ],
+      "scales": [
+        3,
+        7
+      ],
+      "interactions": true,
+      "synoptic": true,
+      "syn_scale": 5
+    },
+    "lam_mono": 0.086304125660357,
+    "hidden": 64,
+    "dropout": 0.3,
+    "lr": 0.001,
+    "weight_decay": 0.001,
+    "batch_size": 64,
+    "depth": 3
+  }
+}

@@ -1,0 +1,1827 @@
+[
+ {
+  "id": "https://openalex.org/W7218169561",
+  "doi": null,
+  "display_name": "Cappadocia Region hot air balloon - Look at the sky",
+  "publication_year": 2022,
+  "primary_location": {
+   "id": "pmh:oai:earsiv.beykent.edu.tr:20.500.12662/9853",
+   "is_oa": true,
+   "landing_page_url": "https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=RsTBl6RWK25OBMIKtIgYYeOQxuudexlEyAD5hz7uwfyFTmsN9wZXMI7pLy_rLv69",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S7407055172",
+    "display_name": "Beykent University Repository",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": "other-oa",
+   "license_id": "https://openalex.org/licenses/other-oa",
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "Master Thesis"
+  },
+  "type": "dissertation"
+ },
+ {
+  "id": "https://openalex.org/W4404210950",
+  "doi": "https://doi.org/10.31822/jomat.2024-9-3-317",
+  "display_name": "Guest experience and unique accommodation features in Göreme, Cappadocia: An Airbnb review analysis",
+  "publication_year": 2024,
+  "primary_location": {
+   "id": "doi:10.31822/jomat.2024-9-3-317",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.31822/jomat.2024-9-3-317",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4210211378",
+    "display_name": "Journal of Multidisciplinary Academic Tourism",
+    "issn_l": "2548-0847",
+    "issn": [
+     "2548-0847",
+     "2645-9078"
+    ],
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [
+     "erih-plus"
+    ],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "journal"
+   },
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Journal of Multidisciplinary Academic Tourism",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W2960595296",
+  "doi": "https://doi.org/10.26677/tr1010.2019.154",
+  "display_name": "Kapadokya da Balon Turizmi Deneyimi ve Kabul Edilebilir Risk Durumu",
+  "publication_year": 2019,
+  "primary_location": {
+   "id": "doi:10.26677/tr1010.2019.154",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.26677/tr1010.2019.154",
+   "pdf_url": "https://doi.org/10.26677/tr1010.2019.154",
+   "source": {
+    "id": "https://openalex.org/S4210196339",
+    "display_name": "Turk Turizm Arastirmalari Dergisi",
+    "issn_l": "2587-0890",
+    "issn": [
+     "2587-0890"
+    ],
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Turk Turizm Arastirmalari Dergisi",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W3189547871",
+  "doi": null,
+  "display_name": "Balon turizmin Kapadokya kırsal turizmi üzerindeki etkileri üzerine bir çalışma",
+  "publication_year": 2019,
+  "primary_location": {
+   "id": "mag:3189547871",
+   "is_oa": false,
+   "landing_page_url": "https://acikerisim.nevsehir.edu.tr/xmlui/handle/20.500.11787/4005",
+   "pdf_url": null,
+   "source": null,
+   "license": null,
+   "license_id": null,
+   "version": null,
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": null
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W7132121498",
+  "doi": null,
+  "display_name": "Sıcak hava balon turizminde hizmet kalitesi ölçümü: Kapadokya Bölgesi’nde bir araştırma",
+  "publication_year": 2021,
+  "primary_location": {
+   "id": "pmh:oai:acikerisim.ikcu.edu.tr:11469/2453",
+   "is_oa": true,
+   "landing_page_url": "https://hdl.handle.net/11469/2453",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S7407055116",
+    "display_name": "İzmir Katip Celebi University",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": "other-oa",
+   "license_id": "https://openalex.org/licenses/other-oa",
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "info:eu-repo/semantics/other"
+  },
+  "type": "other"
+ },
+ {
+  "id": "https://openalex.org/W4414593013",
+  "doi": null,
+  "display_name": "Macera Turizmi Kapsamında Yapılan Bir Açık Hava Rekreasyonu: Göreme Sıcak Hava Balon Turları",
+  "publication_year": 2024,
+  "primary_location": {
+   "id": "pmh:oai:dergipark.org.tr:article/1542144",
+   "is_oa": true,
+   "landing_page_url": "https://dergipark.org.tr/tr/pub/touraj/issue/92450/1542144",
+   "pdf_url": "https://dergipark.org.tr/tr/download/article-file/4184519",
+   "source": {
+    "id": "https://openalex.org/S4306401840",
+    "display_name": "DergiPark (Istanbul University)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/I67581229",
+    "host_organization_name": "Istanbul University",
+    "host_organization_lineage": [
+     "https://openalex.org/I67581229"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": "Turizm Akademik Dergisi",
+   "raw_type": "info:eu-repo/semantics/article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W4214896838",
+  "doi": "https://doi.org/10.24010/soid.863990",
+  "display_name": "Kapadokya Bölgesi Sıcak Hava Balon Pilotu Seçim Sürecinde CRITIC ve MAIRCA Yöntemlerinin Kullanılması",
+  "publication_year": 2022,
+  "primary_location": {
+   "id": "doi:10.24010/soid.863990",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.24010/soid.863990",
+   "pdf_url": "https://dergipark.org.tr/tr/download/article-file/1518871",
+   "source": {
+    "id": "https://openalex.org/S4210172549",
+    "display_name": "Seyahat ve Otel İşletmeciliği Dergisi",
+    "issn_l": "1304-7590",
+    "issn": [
+     "1304-7590",
+     "2548-0871"
+    ],
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/P4310318268",
+    "host_organization_name": "Sidas Medya",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310318268"
+    ],
+    "host_organization_lineage_names": [
+     "Sidas Medya"
+    ],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Seyahat ve Otel İşletmeciliği Dergisi",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W2912700045",
+  "doi": "https://doi.org/10.3357/amhp.5121.2019",
+  "display_name": "Hot-Air Balloon Tour Accidents in the Cappadocia Region",
+  "publication_year": 2019,
+  "primary_location": {
+   "id": "doi:10.3357/amhp.5121.2019",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.3357/amhp.5121.2019",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S2764403496",
+    "display_name": "Aerospace Medicine and Human Performance",
+    "issn_l": "2375-6314",
+    "issn": [
+     "2375-6314",
+     "2375-6322"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": true,
+    "listed_in": [
+     "cwts-core",
+     "jufo-1",
+     "ki-jl-1",
+     "medline",
+     "norway-1"
+    ],
+    "host_organization": "https://openalex.org/P4310316708",
+    "host_organization_name": "Aerospace Medical Association",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310316708"
+    ],
+    "host_organization_lineage_names": [
+     "Aerospace Medical Association"
+    ],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Aerospace Medicine and Human Performance",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W4395688962",
+  "doi": "https://doi.org/10.19168/jyasar.1394365",
+  "display_name": "Evaluation of E-Complaints About Balloon Tours in Cappadocia, Turkey",
+  "publication_year": 2024,
+  "primary_location": {
+   "id": "doi:10.19168/jyasar.1394365",
+   "is_oa": true,
+   "landing_page_url": "http://dx.doi.org/10.19168/jyasar.1394365",
+   "pdf_url": "https://dergipark.org.tr/tr/download/article-file/3552631",
+   "source": {
+    "id": "https://openalex.org/S2765040239",
+    "display_name": "Journal of Yaşar University",
+    "issn_l": "1305-970X",
+    "issn": [
+     "1305-970X"
+    ],
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [
+     "erih-plus",
+     "norway-1"
+    ],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Journal of Yaşar University",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W2921223349",
+  "doi": null,
+  "display_name": "KAPADOKYA BÖLGESİNDE YAŞANAN SICAK HAVA BALON DENEYİMİNİN DAVRANIŞSAL NİYETLER ÜZERİNDEKİ ETKİLERİNİ BELİRLEMEYE YÖNELİK BİR ARAŞTIRMA",
+  "publication_year": 2017,
+  "primary_location": {
+   "id": "pmh:oai:dergipark.org.tr:article/523902",
+   "is_oa": false,
+   "landing_page_url": "https://dergipark.org.tr/tr/pub/verimlilik/issue/43192/523902",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306401840",
+    "display_name": "DergiPark (Istanbul University)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/I67581229",
+    "host_organization_name": "Istanbul University",
+    "host_organization_lineage": [
+     "https://openalex.org/I67581229"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": "Verimlilik Dergisi",
+   "raw_type": "info:eu-repo/semantics/article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W2992952280",
+  "doi": "https://doi.org/10.24010/soid.655546",
+  "display_name": "Çevre Endişesi, Çevresel Fedakârlık, Normlar ve Yer Tutumunun Çevre Dostu Davranışa Etkisi: Kapadokya/Göreme Milli Parkı Örneği",
+  "publication_year": 2019,
+  "primary_location": {
+   "id": "doi:10.24010/soid.655546",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.24010/soid.655546",
+   "pdf_url": "https://dergipark.org.tr/tr/download/article-file/874136",
+   "source": {
+    "id": "https://openalex.org/S4210172549",
+    "display_name": "Seyahat ve Otel İşletmeciliği Dergisi",
+    "issn_l": "1304-7590",
+    "issn": [
+     "1304-7590",
+     "2548-0871"
+    ],
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/P4310318268",
+    "host_organization_name": "Sidas Medya",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310318268"
+    ],
+    "host_organization_lineage_names": [
+     "Sidas Medya"
+    ],
+    "type": "journal"
+   },
+   "license": "cc-by-nc",
+   "license_id": "https://openalex.org/licenses/cc-by-nc",
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Seyahat ve Otel İşletmeciliği Dergisi",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W4402793116",
+  "doi": "https://doi.org/10.53353/atrss.1451456",
+  "display_name": "Kapadokya Bölgesi’nde Balon Turizminin Mevcut Durumu ve Bölge Turizmindeki Yerine İlişkin Paydaş Görüşlerinin İncelenmesi",
+  "publication_year": 2024,
+  "primary_location": {
+   "id": "doi:10.53353/atrss.1451456",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.53353/atrss.1451456",
+   "pdf_url": "https://dergipark.org.tr/tr/download/article-file/3788839",
+   "source": {
+    "id": "https://openalex.org/S4210227673",
+    "display_name": "GSI Journals Serie A Advancements in Tourism Recreation and Sports Sciences",
+    "issn_l": "2645-9116",
+    "issn": [
+     "2645-9116"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "journal"
+   },
+   "license": "cc-by-nc",
+   "license_id": "https://openalex.org/licenses/cc-by-nc",
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "GSI Journals Serie A: Advancements in Tourism Recreation and Sports Sciences",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W7106173051",
+  "doi": "https://doi.org/10.17632/py37v7mf5k",
+  "display_name": "Beyond Balloons: Resident Irritation and the Unequal Geography of Tourism in Cappadocia",
+  "publication_year": 2025,
+  "primary_location": {
+   "id": "doi:10.17632/py37v7mf5k",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.17632/py37v7mf5k",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S7407050775",
+    "display_name": "Mendeley Data",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": null,
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "Dataset"
+  },
+  "type": "dataset"
+ },
+ {
+  "id": "https://openalex.org/W7106153809",
+  "doi": "https://doi.org/10.17632/py37v7mf5k.1",
+  "display_name": "Beyond Balloons: Resident Irritation and the Unequal Geography of Tourism in Cappadocia",
+  "publication_year": 2025,
+  "primary_location": {
+   "id": "doi:10.17632/py37v7mf5k.1",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.17632/py37v7mf5k.1",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S7407050775",
+    "display_name": "Mendeley Data",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": null,
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "Dataset"
+  },
+  "type": "dataset"
+ },
+ {
+  "id": "https://openalex.org/W3211292649",
+  "doi": "https://doi.org/10.37880/cumuiibf.984188",
+  "display_name": "Hot Air Balloon Rides in Cappadocia: A Business Model to Stimulate the Economy",
+  "publication_year": 2021,
+  "primary_location": {
+   "id": "doi:10.37880/cumuiibf.984188",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.37880/cumuiibf.984188",
+   "pdf_url": "http://esjournal.cumhuriyet.edu.tr/en/download/article-file/1930736",
+   "source": {
+    "id": "https://openalex.org/S4306507445",
+    "display_name": "Cumhuriyet Üniversitesi İktisadi ve İdari Bilimler Dergisi",
+    "issn_l": "1303-1279",
+    "issn": [
+     "1303-1279"
+    ],
+    "is_oa": false,
+    "is_in_doaj": true,
+    "is_core": false,
+    "listed_in": [
+     "doaj",
+     "erih-plus"
+    ],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "journal"
+   },
+   "license": "other-oa",
+   "license_id": "https://openalex.org/licenses/other-oa",
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Cumhuriyet Üniversitesi İktisadi ve İdari Bilimler Dergisi",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W3147104420",
+  "doi": null,
+  "display_name": "Deneyimsel tüketim, destinasyon imaj algısı ve davranışsal sonuçları ilişkisi: Kapadokya sıcak hava balon deneyimi",
+  "publication_year": 2017,
+  "primary_location": {
+   "id": "mag:3147104420",
+   "is_oa": false,
+   "landing_page_url": "https://acikerisim.nevsehir.edu.tr/xmlui/handle/20.500.11787/773",
+   "pdf_url": null,
+   "source": null,
+   "license": null,
+   "license_id": null,
+   "version": null,
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": null
+  },
+  "type": "dissertation"
+ },
+ {
+  "id": "https://openalex.org/W4386613244",
+  "doi": "https://doi.org/10.17261/pressacademia.2023.1794",
+  "display_name": "AN ADVENTURE TOURISM STORY IN THE BRANDING PROCESS: HOT AIR BALLOON MANAGEMENT SUCCESSES IN CAPPADOCIA",
+  "publication_year": 2023,
+  "primary_location": {
+   "id": "doi:10.17261/pressacademia.2023.1794",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.17261/pressacademia.2023.1794",
+   "pdf_url": "https://doi.org/10.17261/pressacademia.2023.1794",
+   "source": {
+    "id": "https://openalex.org/S2764440460",
+    "display_name": "Pressacademia",
+    "issn_l": "2146-7943",
+    "issn": [
+     "2146-7943"
+    ],
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/P4310318287",
+    "host_organization_name": "Association of Food Technology, Turkey",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310318287"
+    ],
+    "host_organization_lineage_names": [
+     "Association of Food Technology, Turkey"
+    ],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Pressacademia",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W3067749986",
+  "doi": "https://doi.org/10.26449/sssj.2580",
+  "display_name": "Kapadokya Bölgesi'nde En Uygun Sıcak Hava Balon İşletmesinin Seçimi: Hizmet Kalitesine Dayalı Bir Analitik Hiyerarşi Prosesi Uygulaması",
+  "publication_year": 2020,
+  "primary_location": {
+   "id": "doi:10.26449/sssj.2580",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.26449/sssj.2580",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4210191569",
+    "display_name": "Social Sciences Studies Journal",
+    "issn_l": "2587-1587",
+    "issn": [
+     "2587-1587"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/P4324309665",
+    "host_organization_name": "Omer Okan FETTAHLIOGLU",
+    "host_organization_lineage": [
+     "https://openalex.org/P4324309665"
+    ],
+    "host_organization_lineage_names": [
+     "Omer Okan FETTAHLIOGLU"
+    ],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Social Sciences Studies Journal",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W3042669278",
+  "doi": "https://doi.org/10.31822/jomat.709096",
+  "display_name": "Relationship between Destination Image Change and Behavioral Intention: A Study on Cappadocia Hot Air Balloon Experience",
+  "publication_year": 2020,
+  "primary_location": {
+   "id": "doi:10.31822/jomat.709096",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.31822/jomat.709096",
+   "pdf_url": "https://dergipark.org.tr/en/download/article-file/1201296",
+   "source": {
+    "id": "https://openalex.org/S4210211378",
+    "display_name": "Journal of Multidisciplinary Academic Tourism",
+    "issn_l": "2548-0847",
+    "issn": [
+     "2548-0847",
+     "2645-9078"
+    ],
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [
+     "erih-plus"
+    ],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "journal"
+   },
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Journal of Multidisciplinary Academic Tourism",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W7164021984",
+  "doi": "https://doi.org/10.65981/touraj.1906606",
+  "display_name": "Balon Pilotları Perspektifinden Balon Turlarında Yaşanabilecek Riskler ve Riskleri Bertaraf Etme Yöntemleri",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "doi:10.65981/touraj.1906606",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.65981/touraj.1906606",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S7407058779",
+    "display_name": "Turizm Akademik Dergisi",
+    "issn_l": "2149-1690",
+    "issn": [
+     "2149-1690"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Turizm Akademik Dergisi",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W2942653772",
+  "doi": null,
+  "display_name": "Evaluation of the Göreme Historical National Park in Terms of Tourism Practices",
+  "publication_year": 2017,
+  "primary_location": {
+   "id": "pmh:oai:dergipark.org.tr:article/430714",
+   "is_oa": true,
+   "landing_page_url": "https://dergipark.org.tr/tr/pub/ejar/issue/37295/430714",
+   "pdf_url": "https://dergipark.org.tr/tr/pub/ejar/issue/37295/430714",
+   "source": {
+    "id": "https://openalex.org/S4306401840",
+    "display_name": "DergiPark (Istanbul University)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/I67581229",
+    "host_organization_name": "Istanbul University",
+    "host_organization_lineage": [
+     "https://openalex.org/I67581229"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "info:eu-repo/semantics/article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W3204538584",
+  "doi": "https://doi.org/10.30519/ahtr.899626",
+  "display_name": "Small Hotel Location Selection Problem: The Case of Cappadocia",
+  "publication_year": 2021,
+  "primary_location": {
+   "id": "doi:10.30519/ahtr.899626",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.30519/ahtr.899626",
+   "pdf_url": "https://dergipark.org.tr/en/download/article-file/1648578",
+   "source": {
+    "id": "https://openalex.org/S4210209326",
+    "display_name": "Advances in Hospitality and Tourism Research (AHTR)",
+    "issn_l": "2147-9100",
+    "issn": [
+     "2147-9100",
+     "2148-7316"
+    ],
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": true,
+    "listed_in": [
+     "cwts-core"
+    ],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Advances in Hospitality and Tourism Research (AHTR)",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W3006552672",
+  "doi": null,
+  "display_name": "KAPADOKYA SICAK HAVA BALONCULUĞU ÜZERİNE NİTEL BİR ARAŞTIRMA",
+  "publication_year": 2019,
+  "primary_location": {
+   "id": "pmh:oai:dergipark.org.tr:article/591558",
+   "is_oa": true,
+   "landing_page_url": "https://dergipark.org.tr/tr/pub/nevsosbilen/issue/51363/591558",
+   "pdf_url": "https://dergipark.org.tr/tr/pub/nevsosbilen/issue/51363/591558",
+   "source": {
+    "id": "https://openalex.org/S4306401840",
+    "display_name": "DergiPark (Istanbul University)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/I67581229",
+    "host_organization_name": "Istanbul University",
+    "host_organization_lineage": [
+     "https://openalex.org/I67581229"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "info:eu-repo/semantics/article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W7219555348",
+  "doi": null,
+  "display_name": "The role of city brand and city image in destination marketing: Sample of Nevşehir",
+  "publication_year": 2014,
+  "primary_location": {
+   "id": "pmh:oai:acikerisim.ohu.edu.tr:11480/6783",
+   "is_oa": true,
+   "landing_page_url": "https://hdl.handle.net/11480/6783",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S7407055360",
+    "display_name": "Niğde Üniversitesi Açık Erişim Sistemi",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": "other-oa",
+   "license_id": "https://openalex.org/licenses/other-oa",
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "Master Thesis"
+  },
+  "type": "dissertation"
+ },
+ {
+  "id": "https://openalex.org/W4412455048",
+  "doi": "https://doi.org/10.15170/tvt.2025.10.02.04",
+  "display_name": "Strategic analysis of yoga tourism in Cappadocia: A SWOT-TOWS approach",
+  "publication_year": 2025,
+  "primary_location": {
+   "id": "doi:10.15170/tvt.2025.10.02.04",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.15170/tvt.2025.10.02.04",
+   "pdf_url": "https://www.turisztikaitanulmanyok.hu/wp-content/uploads/2025/07/TVT_10evf_2szam_04.pdf",
+   "source": {
+    "id": "https://openalex.org/S4210192999",
+    "display_name": "Turisztikai és Vidékfejlesztési Tanulmányok",
+    "issn_l": "2498-6984",
+    "issn": [
+     "2498-6984",
+     "2677-0431"
+    ],
+    "is_oa": true,
+    "is_in_doaj": true,
+    "is_core": false,
+    "listed_in": [
+     "doaj",
+     "erih-plus"
+    ],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "journal"
+   },
+   "license": "cc-by-nc-nd",
+   "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Turisztikai és Vidékfejlesztési Tanulmányok",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W7213970674",
+  "doi": "https://doi.org/10.63556/tisej.2026.1970",
+  "display_name": "Mağara Otellerinde Manzara, Hayranlık ve Otantiklik Algısı: Kapadokya Bölgesinde Bir Araştırma",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "doi:10.63556/tisej.2026.1970",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.63556/tisej.2026.1970",
+   "pdf_url": "https://tisej.com/index.php/pub/article/download/1970/1802",
+   "source": {
+    "id": "https://openalex.org/S4210197172",
+    "display_name": "3 SEKTÖR SOSYAL EKONOMİ DERGİSİ",
+    "issn_l": "2148-1237",
+    "issn": [
+     "2148-1237",
+     "2587-0114"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "journal"
+   },
+   "license": "cc-by-nc",
+   "license_id": "https://openalex.org/licenses/cc-by-nc",
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Üçüncü Sektör Sosyal Ekonomi Dergisi",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W7165939242",
+  "doi": "https://doi.org/10.48070/erciyesakademi.1898808",
+  "display_name": "Batılı perspektiften Türkiye destinasyon imajı: Avrupalı turistlerin Kapadokya deneyimlerinde oryantalist temsiller",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "doi:10.48070/erciyesakademi.1898808",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.48070/erciyesakademi.1898808",
+   "pdf_url": "https://dergipark.org.tr/tr/download/article-file/5763260",
+   "source": {
+    "id": "https://openalex.org/S4210203072",
+    "display_name": "Erciyes Akademi",
+    "issn_l": "2757-7031",
+    "issn": [
+     "2757-7031"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Erciyes Akademi",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W1836777589",
+  "doi": "https://doi.org/10.16951/iibd.60508",
+  "display_name": "VZA SÜPER ETKİNLİK MODELLERİ İLE ETKİNLİK ÖLÇÜMÜ: KAPADOKYA’DA FAALİYET GÖSTEREN BALON İŞLETMELERİ ÜZERİNE BİR UYGULAMA",
+  "publication_year": 2015,
+  "primary_location": {
+   "id": "pmh:oai:dergipark.gov.tr:article/36017",
+   "is_oa": false,
+   "landing_page_url": "http://dergipark.gov.tr/atauniiibd/issue/2716/36017",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306401840",
+    "display_name": "DergiPark (Istanbul University)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/I67581229",
+    "host_organization_name": "Istanbul University",
+    "host_organization_lineage": [
+     "https://openalex.org/I67581229"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": "\\n Volume: 29, Issue: 1\\n \\n",
+   "raw_type": "info:eu-repo/semantics/article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W4220791174",
+  "doi": "https://doi.org/10.25287/ohuiibf.1002825",
+  "display_name": "Konut piyasasında çoklu balon oluşumu: Türkiye geneli ve TR71 bölgesinden ampirik deliller",
+  "publication_year": 2022,
+  "primary_location": {
+   "id": "doi:10.25287/ohuiibf.1002825",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.25287/ohuiibf.1002825",
+   "pdf_url": "https://dergipark.org.tr/tr/download/article-file/2002568",
+   "source": {
+    "id": "https://openalex.org/S4210240322",
+    "display_name": "Ömer Halisdemir Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi",
+    "issn_l": "2564-6931",
+    "issn": [
+     "2564-6931"
+    ],
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/P4310318289",
+    "host_organization_name": "Niğde Ömer Halisdemir University",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310318289"
+    ],
+    "host_organization_lineage_names": [
+     "Niğde Ömer Halisdemir University"
+    ],
+    "type": "journal"
+   },
+   "license": "cc-by-nc-sa",
+   "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Ömer Halisdemir Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W7166402376",
+  "doi": null,
+  "display_name": "Türkiye’s destination image from a western perspective: Orientalist representations in European tourists’ experiences of Cappadocia",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "pmh:oai:dergipark.org.tr:article/1898808",
+   "is_oa": true,
+   "landing_page_url": "https://izlik.org/JA57HW37SZ",
+   "pdf_url": "https://dergipark.org.tr/en/download/article-file/5763260",
+   "source": {
+    "id": "https://openalex.org/S4306401840",
+    "display_name": "DergiPark (Istanbul University)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/I67581229",
+    "host_organization_name": "Istanbul University",
+    "host_organization_lineage": [
+     "https://openalex.org/I67581229"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": "Erciyes Akademi, Vol. 40 No. 1",
+   "raw_type": "info:eu-repo/semantics/article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W2901550577",
+  "doi": "https://doi.org/10.1016/j.scienta.2018.10.038",
+  "display_name": "Spring late frost resistance of selected wild apricot genotypes (Prunus armeniaca L.) from Cappadocia region, Turkey",
+  "publication_year": 2018,
+  "primary_location": {
+   "id": "doi:10.1016/j.scienta.2018.10.038",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.1016/j.scienta.2018.10.038",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S193620188",
+    "display_name": "Scientia Horticulturae",
+    "issn_l": "0304-4238",
+    "issn": [
+     "0304-4238",
+     "1879-1018"
+    ],
+    "is_oa": false,
+    "is_in_doaj": true,
+    "is_core": true,
+    "listed_in": [
+     "cwts-core",
+     "doaj",
+     "jufo-1",
+     "norway-1"
+    ],
+    "host_organization": "https://openalex.org/P4310320990",
+    "host_organization_name": "Elsevier BV",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310320990"
+    ],
+    "host_organization_lineage_names": [
+     "Elsevier BV"
+    ],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Scientia Horticulturae",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W4389627029",
+  "doi": "https://doi.org/10.4324/9781003011200-3",
+  "display_name": "Ups and downs of hot-air balloons over two decades",
+  "publication_year": 2023,
+  "primary_location": {
+   "id": "doi:10.4324/9781003011200-3",
+   "is_oa": false,
+   "landing_page_url": "http://dx.doi.org/10.4324/9781003011200-3",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306463855",
+    "display_name": "Routledge eBooks",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/P4310319847",
+    "host_organization_name": "Routledge",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310319847",
+     "https://openalex.org/P4310320547"
+    ],
+    "host_organization_lineage_names": [
+     "Routledge",
+     "Taylor & Francis"
+    ],
+    "type": "ebook platform"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Tourism and the Spectre of Unlimited Change",
+   "raw_type": "book-chapter"
+  },
+  "type": "book-chapter"
+ },
+ {
+  "id": "https://openalex.org/W3012521490",
+  "doi": null,
+  "display_name": "Utilizing the sustainable livelihoods approach to evaluate tourism development from the rural host communities' point of view: the case of Cappadocia (Turkey).",
+  "publication_year": 2017,
+  "primary_location": {
+   "id": "pmh:oai:acikerisim.klu.edu.tr:20.500.11857/2697",
+   "is_oa": false,
+   "landing_page_url": "https://hdl.handle.net/20.500.11857/2697",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306402331",
+    "display_name": "Kırklareli University Institutional Repository (Kırklareli University)",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/I264262938",
+    "host_organization_name": "Kırklareli University",
+    "host_organization_lineage": [
+     "https://openalex.org/I264262938"
+    ],
+    "host_organization_lineage_names": [],
+    "type": "repository"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "submittedVersion",
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": null,
+   "raw_type": "article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W7213069056",
+  "doi": "https://doi.org/10.1080/13032917.2026.2732929",
+  "display_name": "Hot air balloon experiences: asymmetric impacts and latent profiles",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "doi:10.1080/13032917.2026.2732929",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.1080/13032917.2026.2732929",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4210168085",
+    "display_name": "Anatolia",
+    "issn_l": "1303-2917",
+    "issn": [
+     "1303-2917",
+     "2156-6909"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": true,
+    "listed_in": [
+     "abdc-b",
+     "cwts-core",
+     "jufo-1",
+     "norway-1"
+    ],
+    "host_organization": "https://openalex.org/P4310320547",
+    "host_organization_name": "Taylor & Francis",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310320547",
+     "https://openalex.org/P4310320449"
+    ],
+    "host_organization_lineage_names": [
+     "Taylor & Francis",
+     "Informa"
+    ],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Anatolia",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W7166713435",
+  "doi": "https://doi.org/10.63556/jotags.2026.1849",
+  "display_name": "The Impact of Flow State on Perceived Value and Revisit Intension in Hot Air Balloon Tour Experience",
+  "publication_year": 2026,
+  "primary_location": {
+   "id": "doi:10.63556/jotags.2026.1849",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.63556/jotags.2026.1849",
+   "pdf_url": "https://jotags.net/index.php/jotags/article/download/2593/4332",
+   "source": {
+    "id": "https://openalex.org/S2764617905",
+    "display_name": "Journal of Tourism and Gastronomy Studies",
+    "issn_l": "2147-8775",
+    "issn": [
+     "2147-8775"
+    ],
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "journal"
+   },
+   "license": "cc-by-nc",
+   "license_id": "https://openalex.org/licenses/cc-by-nc",
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Journal of Tourism &amp; Gastronomy Studies",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W2979431147",
+  "doi": "https://doi.org/10.31822/jomat.618715",
+  "display_name": "Determining the Leisure Satisfaction Levels of Individuals Having Hot Air Balloon Ride as an Adventurous Recreational Activity",
+  "publication_year": 2019,
+  "primary_location": {
+   "id": "doi:10.31822/jomat.618715",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.31822/jomat.618715",
+   "pdf_url": "https://dergipark.org.tr/en/download/article-file/881285",
+   "source": {
+    "id": "https://openalex.org/S4210211378",
+    "display_name": "Journal of Multidisciplinary Academic Tourism",
+    "issn_l": "2548-0847",
+    "issn": [
+     "2548-0847",
+     "2645-9078"
+    ],
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [
+     "erih-plus"
+    ],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "journal"
+   },
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Journal of Multidisciplinary Academic Tourism",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W4417419773",
+  "doi": "https://doi.org/10.64220/ijmd.v2i1.003",
+  "display_name": "Altitude-Induced Oral and Sinus Complaints: Prevalence of Barodontalgia in Hot Air Balloon Operators: A Cross-sectional Study",
+  "publication_year": 2025,
+  "primary_location": {
+   "id": "doi:10.64220/ijmd.v2i1.003",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.64220/ijmd.v2i1.003",
+   "pdf_url": "https://scholarlysummit.com/journals/pdf/ijmd-pdf/20/altitude-induced-oral-and-sinus-complaints.pdf",
+   "source": {
+    "id": "https://openalex.org/S5407051144",
+    "display_name": "International Journal of Medical Discoveries",
+    "issn_l": "3067-7912",
+    "issn": [
+     "3067-7912"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "International Journal of Medical Discoveries",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W4393074737",
+  "doi": "https://doi.org/10.32572/guntad.1367796",
+  "display_name": "Turistlerin Kapadokya’ya Geliş Amaçlarına Sıcak Hava Balonlarının Etkisi",
+  "publication_year": 2024,
+  "primary_location": {
+   "id": "doi:10.32572/guntad.1367796",
+   "is_oa": true,
+   "landing_page_url": "http://dx.doi.org/10.32572/guntad.1367796",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4210208771",
+    "display_name": "Güncel Turizm Araştırmaları Dergisi",
+    "issn_l": "2602-3008",
+    "issn": [
+     "2602-3008"
+    ],
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/P4310318380",
+    "host_organization_name": "Süleyman Demirel University",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310318380"
+    ],
+    "host_organization_lineage_names": [
+     "Süleyman Demirel University"
+    ],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Güncel Turizm Araştırmaları Dergisi",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W4382193323",
+  "doi": "https://doi.org/10.26450/jshsr.3601",
+  "display_name": "GENEL HAVACILIKTA DİJİTALLEŞMENİN ETKİLERİ: TÜRK HAVA KURUMU GÖKÇEN HAVACILIK VAKASI",
+  "publication_year": 2023,
+  "primary_location": {
+   "id": "doi:10.26450/jshsr.3601",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.26450/jshsr.3601",
+   "pdf_url": "https://www.jshsr.org/index.php/pub/article/download/73/71",
+   "source": {
+    "id": "https://openalex.org/S4210180160",
+    "display_name": "International Journal of Social Humanities Sciences Research (JSHSR)",
+    "issn_l": "2459-1149",
+    "issn": [
+     "2459-1149"
+    ],
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/P4360969349",
+    "host_organization_name": "Research Hub",
+    "host_organization_lineage": [
+     "https://openalex.org/P4360969349"
+    ],
+    "host_organization_lineage_names": [
+     "Research Hub"
+    ],
+    "type": "journal"
+   },
+   "license": "cc-by",
+   "license_id": "https://openalex.org/licenses/cc-by",
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "International Journal of Social Humanities Sciences Research (JSHSR)",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W2995268799",
+  "doi": null,
+  "display_name": "Views on the effects of nature-based tourism activities on the environment: the case of Fairy Chimneys Tourism Region (Turkey).",
+  "publication_year": 2019,
+  "primary_location": {
+   "id": "mag:2995268799",
+   "is_oa": false,
+   "landing_page_url": "https://dergipark.org.tr/en/download/article-file/812461",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4210236967",
+    "display_name": "Journal of Tourism Leisure and Hospitality",
+    "issn_l": "2687-3737",
+    "issn": [
+     "2687-3737"
+    ],
+    "is_oa": false,
+    "is_in_doaj": true,
+    "is_core": false,
+    "listed_in": [
+     "doaj"
+    ],
+    "host_organization": "https://openalex.org/P4310318332",
+    "host_organization_name": "Anadolu University",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310318332"
+    ],
+    "host_organization_lineage_names": [
+     "Anadolu University"
+    ],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": null,
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": "Journal of Tourism Leisure and Hospitality",
+   "raw_type": null
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W4324273562",
+  "doi": "https://doi.org/10.20491/isarder.2022.1527",
+  "display_name": "The Development of Gastronomy Tourism in the Context of Destination Marketing: A Qualitative Study on Travel Agencies",
+  "publication_year": 2022,
+  "primary_location": {
+   "id": "doi:10.20491/isarder.2022.1527",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.20491/isarder.2022.1527",
+   "pdf_url": "https://isarder.org/index.php/isarder/article/download/1805/1744/1754",
+   "source": {
+    "id": "https://openalex.org/S2764689644",
+    "display_name": "Journal of Business Research - Turk",
+    "issn_l": "1309-0712",
+    "issn": [
+     "1309-0712"
+    ],
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/P4310318316",
+    "host_organization_name": "Isarder",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310318316"
+    ],
+    "host_organization_lineage_names": [
+     "Isarder"
+    ],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Journal of Business Research - Turk",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W3005696293",
+  "doi": "https://doi.org/10.4018/978-1-7998-1989-9.ch007",
+  "display_name": "Internet of Things in Tourism",
+  "publication_year": 2020,
+  "primary_location": {
+   "id": "doi:10.4018/978-1-7998-1989-9.ch007",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.4018/978-1-7998-1989-9.ch007",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4210170998",
+    "display_name": "Advances in hospitality, tourism and the services industry (AHTSI) book series",
+    "issn_l": "2475-6547",
+    "issn": [
+     "2475-6547",
+     "2475-6555"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": true,
+    "listed_in": [
+     "cwts-core",
+     "norway-1"
+    ],
+    "host_organization": "https://openalex.org/P4310320424",
+    "host_organization_name": "IGI Global",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310320424"
+    ],
+    "host_organization_lineage_names": [
+     "IGI Global"
+    ],
+    "type": "book series"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Advances in Hospitality, Tourism, and the Services Industry",
+   "raw_type": "book-chapter"
+  },
+  "type": "book-chapter"
+ },
+ {
+  "id": "https://openalex.org/W4205984721",
+  "doi": "https://doi.org/10.7827/turkishstudies.54808",
+  "display_name": "Wall Paintings in Ürgüp Sucuoğlu Mansion and Their Conservation Problem",
+  "publication_year": 2021,
+  "primary_location": {
+   "id": "doi:10.7827/turkishstudies.54808",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.7827/turkishstudies.54808",
+   "pdf_url": "https://turkishstudies.net/files/turkishstudies/817ff3d5-8f6c-4722-b5aa-7f3026aa1981.pdf",
+   "source": {
+    "id": "https://openalex.org/S4210186913",
+    "display_name": "Journal of Turkish Studies",
+    "issn_l": "1308-2140",
+    "issn": [
+     "1308-2140"
+    ],
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/P4310318297",
+    "host_organization_name": "ASOS Eğitim Bilişim Danışmanlık",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310318297"
+    ],
+    "host_organization_lineage_names": [
+     "ASOS Eğitim Bilişim Danışmanlık"
+    ],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Journal of Turkish Studies",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W4409464109",
+  "doi": "https://doi.org/10.34190/ictr.8.1.3401",
+  "display_name": "Memorable Tourism Experience in Hot-Air Ballooning: Its Antecedents and Consequences",
+  "publication_year": 2025,
+  "primary_location": {
+   "id": "doi:10.34190/ictr.8.1.3401",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.34190/ictr.8.1.3401",
+   "pdf_url": "https://papers.academic-conferences.org/index.php/ictr/article/download/3401/3104",
+   "source": {
+    "id": "https://openalex.org/S4387280574",
+    "display_name": "International Conference on Tourism Research",
+    "issn_l": "2516-3604",
+    "issn": [
+     "2516-3604",
+     "2516-3612"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "journal"
+   },
+   "license": "cc-by-nc-nd",
+   "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "International Conference on Tourism Research",
+   "raw_type": "journal-article"
+  },
+  "type": "conference-paper"
+ },
+ {
+  "id": "https://openalex.org/W1985271269",
+  "doi": "https://doi.org/10.2307/3642913",
+  "display_name": "The Regional Survey at Kerkenes Dağ: an interim report on the seasons of 1993 and 1994.",
+  "publication_year": 1995,
+  "primary_location": {
+   "id": "doi:10.2307/3642913",
+   "is_oa": false,
+   "landing_page_url": "https://doi.org/10.2307/3642913",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S2764770367",
+    "display_name": "Anatolian Studies",
+    "issn_l": "0066-1546",
+    "issn": [
+     "0066-1546",
+     "2048-0849"
+    ],
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [
+     "erih-plus",
+     "jufo-2"
+    ],
+    "host_organization": "https://openalex.org/P4310311721",
+    "host_organization_name": "Cambridge University Press",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310311721",
+     "https://openalex.org/P4310311702"
+    ],
+    "host_organization_lineage_names": [
+     "Cambridge University Press",
+     "University of Cambridge"
+    ],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Anatolian Studies",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W3161830675",
+  "doi": "https://doi.org/10.14783/maruoneri.815611",
+  "display_name": "PAKET TUR KATILIMCISI TURİSTLERİN DAVRANIŞLARININ İNCELENMESİ: GÜNEY KORELİ TURİSTLERE YÖNELİK BİR KATILIMLI GÖZLEM ÇALIŞMASI",
+  "publication_year": 2021,
+  "primary_location": {
+   "id": "doi:10.14783/maruoneri.815611",
+   "is_oa": true,
+   "landing_page_url": "https://doi.org/10.14783/maruoneri.815611",
+   "pdf_url": "https://dergipark.org.tr/tr/download/article-file/1361106",
+   "source": {
+    "id": "https://openalex.org/S2738538773",
+    "display_name": "Öneri Dergisi",
+    "issn_l": "1300-0845",
+    "issn": [
+     "1300-0845",
+     "2147-5377"
+    ],
+    "is_oa": true,
+    "is_in_doaj": false,
+    "is_core": false,
+    "listed_in": [],
+    "host_organization": "https://openalex.org/P4310318381",
+    "host_organization_name": "Marmara University",
+    "host_organization_lineage": [
+     "https://openalex.org/P4310318381"
+    ],
+    "host_organization_lineage_names": [
+     "Marmara University"
+    ],
+    "type": "journal"
+   },
+   "license": "cc-by-nc",
+   "license_id": "https://openalex.org/licenses/cc-by-nc",
+   "version": "publishedVersion",
+   "is_accepted": true,
+   "is_published": true,
+   "raw_source_name": "Öneri Dergisi",
+   "raw_type": "journal-article"
+  },
+  "type": "article"
+ },
+ {
+  "id": "https://openalex.org/W2991317670",
+  "doi": null,
+  "display_name": "Gluten And Associated Medical Problems",
+  "publication_year": 2019,
+  "primary_location": {
+   "id": "mag:2991317670",
+   "is_oa": false,
+   "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/30860740/",
+   "pdf_url": null,
+   "source": {
+    "id": "https://openalex.org/S4306530867",
+    "display_name": "StatPearls",
+    "issn_l": null,
+    "issn": null,
+    "is_oa": false,
+    "is_in_doaj": false,
+    "is_core": true,
+    "listed_in": [
+     "cwts-core"
+    ],
+    "host_organization": null,
+    "host_organization_name": null,
+    "host_organization_lineage": [],
+    "host_organization_lineage_names": [],
+    "type": "journal"
+   },
+   "license": null,
+   "license_id": null,
+   "version": null,
+   "is_accepted": false,
+   "is_published": false,
+   "raw_source_name": "StatPearls",
+   "raw_type": null
+  },
+  "type": "article"
+ }
+]

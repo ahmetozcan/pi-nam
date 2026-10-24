@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "The manuscript is under review. Until it is published, please cite the dataset."
+title: "PI-NAM: Physics-Informed Neural Additive Model for Hot-Air Balloon Flight Authorization"
+type: software
+authors:
+  - family-names: "Özcan"
+    given-names: "Ahmet"
+    orcid: "https://orcid.org/0000-0002-1098-7078"
+license: MIT
+repository-code: "https://github.com/ahmetozcan/pi-nam"
+date-released: "2026-06-24"
+references:
+  - type: dataset
+    title: "Dataset on Weather Conditions and Flight Decision Records for Hot-Air Balloons in Cappadocia Region (2023–2024)"
+    authors:
+      - family-names: "Özcan"
+        given-names: "Ahmet"
+    publisher:
+      name: "Mendeley Data"
+    version: "2"
+    year: 2026
+    doi: "10.17632/mjv3zmxwsn.2"

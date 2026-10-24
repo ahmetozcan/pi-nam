@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-08",
+  "index": "OpenAlex",
+  "queries": {
+    "Q1_balloon_ml": {
+      "query": "(\"hot air balloon\" OR \"hot-air balloon\" OR \"hot air balloons\" OR \"hot-air balloons\" OR \"balloon flight\" OR \"balloon flights\" OR \"balloon tourism\") AND (\"machine learning\" OR \"deep learning\" OR \"neural network\" OR \"artificial intelligence\" OR classification OR \"random forest\" OR XGBoost OR \"gradient boosting\" OR \"data-driven\")",
+      "hits": 42
+    },
+    "Q2_balloon_weather": {
+      "query": "(\"hot air balloon\" OR \"hot-air balloon\" OR \"hot air balloons\" OR \"hot-air balloons\" OR \"balloon flight\" OR \"balloon flights\" OR \"balloon tourism\") AND (weather OR meteorological OR meteorology OR wind OR fog OR forecast)",
+      "hits": 513
+    },
+    "Q3_cappadocia_balloon": {
+      "query": "(Cappadocia OR Kapadokya OR Goreme OR Göreme OR Nevsehir OR Nevşehir) AND (balloon OR balon)",
+      "hits": 47
+    },
+    "Q4_balloon_safety": {
+      "query": "(\"hot air balloon\" OR \"hot-air balloon\" OR \"hot air balloons\" OR \"hot-air balloons\" OR \"balloon flight\" OR \"balloon flights\" OR \"balloon tourism\") AND (safety OR accident OR accidents OR incident OR risk)",
+      "hits": 276
+    },
+    "Q5_nam_knowledge": {
+      "query": "(\"neural additive model\" OR \"neural additive models\") AND (physics OR \"physics-informed\" OR \"physics-guided\" OR \"domain knowledge\" OR monotonic OR monotonicity)",
+      "hits": 15
+    },
+    "Q6_physics_additive": {
+      "query": "(\"physics-informed\" OR \"physics-guided\") AND (\"additive model\" OR \"generalized additive\" OR \"neural additive\")",
+      "hits": 27
+    }
+  },
+  "title_screen": {
+    "keep": "hot.?air|cappadoc|kapadokya|g[oö]reme|nev[sş]ehir|\\bbalon|tourism|recreational|passenger",
+    "drop": "stratospher|mars|titan|venus|montgolfi|solar hot|near.?space|gastric|cosmic",
+    "n": 107
+  }
+}

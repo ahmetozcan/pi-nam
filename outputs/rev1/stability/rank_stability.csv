@@ -1,0 +1,6 @@
+level,comparison,tau_mean,tau_min,tau_max,n_pairs
+term,fold vs fold,0.6023,0.3222,0.7638,45
+term,seed vs seed (within fold),0.5307,-0.0189,0.7442,1050
+term,blocked CV vs year-ahead,0.3739,0.3739,0.3739,1
+group,fold vs fold,0.9365,0.8095,1.0000,45
+group,blocked CV vs year-ahead,0.6190,0.6190,0.6190,1

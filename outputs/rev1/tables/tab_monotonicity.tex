@@ -1,0 +1,17 @@
+\begin{tabular}{lccc}
+\toprule
+Model & Random CV & Blocked CV & Year-ahead \\
+\midrule
+PI-NAM & 3.4 (cloud) & 1.5 (cloud) & 2.5 (wind) \\
+PI-NAM-fixed & \multicolumn{1}{c}{as PI-NAM} & \multicolumn{1}{c}{as PI-NAM} & 0.0 \\
+EBM & 26.8 (cloud) & 24.3 (cloud) & 23.8 (wind) \\
+XGBoost-mono & 0.0 & 0.0 & 0.0 \\
+LightGBM-mono & 0.0 & 0.0 & 0.0 \\
+XGBoost & 18.0 (precip) & 16.5 (cloud) & 20.5 (precip) \\
+LightGBM & 23.2 (precip) & 22.4 (precip) & 18.9 (wind) \\
+CatBoost & 16.8 (precip) & 13.1 (precip) & 17.8 (precip) \\
+Random Forest & 9.3 (precip) & 5.9 (precip) & 1.9 (precip) \\
+SVM & 57.0 (precip) & 49.2 (precip) & 51.4 (wind) \\
+TabPFN~v2 & 33.1 (precip) & 33.0 (precip) & 51.1 (precip) \\
+\bottomrule
+\end{tabular}
